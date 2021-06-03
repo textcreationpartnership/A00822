@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elisha his lamentation, for his owne, and all Israels losse, in Elijah The subiect of a sermon, preached at the funeralls of the Right Worshipfull Sir Anthony Rous, late of Halton in Cornwall, Knight. By Charles Fitz-Geffry.</title>
+            <author>Fitz-Geffry, Charles, 1575?-1638.</author>
+         </titleStmt>
+         <extent>Approx. 101KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00822</idno><idno type="EEBO-CITATION">99837961</idno>
+  <idno type="VID">2312</idno>
+  <idno type="EEBO-PROQUEST">2240914528</idno>
+  <idno type="STC">STC 10942</idno>
+  <idno type="STC">ESTC S102162</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837961e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2312)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 798:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elisha his lamentation, for his owne, and all Israels losse, in Elijah The subiect of a sermon, preached at the funeralls of the Right Worshipfull Sir Anthony Rous, late of Halton in Cornwall, Knight. By Charles Fitz-Geffry.</title>
+                  <author>Fitz-Geffry, Charles, 1575?-1638.</author>
+               </titleStmt>
+               <extent>[8], 54, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby for Iohn Parker, and are to be sold at his shop in Pauls Church-yard, at the signe of the three Pidgeons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rous, Anthony, --  Sir, d. 1622 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2312:1"/>
+            <pb facs="tcp:2312:1"/>
+            <p>ELISHA HIS LAMENTATION, For his Owne, and all ISRAELS losse, in ELIJAH.</p>
+            <p>
+               <hi>The subiect of a Sermon, preached at the</hi> Funeralls of the Right Worshipfull Sir ANTHONY ROVS, <hi>late of Halton in Cornwall,</hi> KNIGHT.</p>
+            <p>
+               <hi>By</hi> Charles Fitz-Geffry.</p>
+            <q>
+               <bibl>
+                  <hi>August. Confess. lib. 10. cap. 37.</hi>
+               </bibl>
+               <p>Si bonae vitae bonorum{que} operum comes, &amp; solet, &amp; debet esse laudatio, tàm c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mitatum eius quàm ipsam bonam vitam descri non oportet.</p>
+            </q>
+            <p>LONDON Printed by <hi>William Stansby</hi> for <hi>Iohn Parker,</hi> and are to be sold at his Shop in <hi>Pauls</hi> Church-yard, at the signe of the three Pidgeons. 1622.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:2312:2"/>
+            <pb facs="tcp:2312:2"/>
+            <head>TO THE RIGHT Worshipfull, my worthy Patron WILLIAM ROVS, of <hi>Halton, Esquire:</hi> Grace, Mercy, and Peace be multiplied.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>Ratulation,<note place="margin">Sera gratulatio reprehendi non solet. <hi>Cic. ep.</hi> 7. <hi>l.</hi> 2. Nam cùm lon<g ref="char:EOLhyphen"/>ga dies sedauit vulnera mentis Intempestiuè qui mouet, ille nouat.</note> though it come somewhat late, findeth accep<g ref="char:EOLhyphen"/>tance, at least esca<g ref="char:EOLhyphen"/>peth check; but La<g ref="char:EOLhyphen"/>mentation, not so: Ʋntimely comfor<g ref="char:EOLhyphen"/>ting, makes the Wound of Sorrow to bleed afresh; which Time (Griefes best Chirurgeon) had almost closed. When the <hi>Ilian</hi> Embassadours came somewhat late to
+<pb facs="tcp:2312:3"/> comfort <hi>Tiberius</hi> for the death of his sonne <hi>Drusus,</hi>
+               <note place="margin">Sueton. in Tiber, c. <hi>52.</hi>
+               </note> the old Fox deriding their slow of<g ref="char:EOLhyphen"/>ficiousnesse, answered, That he likewise con<g ref="char:EOLhyphen"/>doled their case, in loosing their worthy Citi<g ref="char:EOLhyphen"/>zen <hi>Hector,</hi> who died aboue a thousand yeares before. Better entertainement doth <hi>ELISHA</hi> his <hi>Lamentation</hi> hope for at your hand, though it haue layen buried now a yeare in my Deske, since the Funeralls of your Religious Grandfather. I hoped to haue sent forth with him that other <hi>Starre</hi> of our West,<note place="margin">M. <hi>Carew</hi> of <hi>Antony.</hi>
+               </note> whom God remoued from vs but foure daies before him. But failing of that hope for the present, I now premise this, to make way for the other, and for some more to succeed shortly, if God grant life and leisure. I desire so to preserue the memorie of the Dead, as that I may also edifie the Liuing: this is mine especiall ayme, in publishing this poore Sermon.</p>
+            <p>Accept, I beseech you, this Glasse of your worthy Grandfather; and as you supply his want to my poore selfe, in continuing his kind<g ref="char:EOLhyphen"/>nesse; so it is expected, that you make his losse more tolerable to Vs all, in expressing his Ver<g ref="char:EOLhyphen"/>tues, especially his Pietie: without which, other
+<pb facs="tcp:2312:3"/> Ʋertues either are not, or shine not, or are but Gloe-Wormes, or shining sinnes.<note place="margin">Splendida pec<g ref="char:EOLhyphen"/>cata. <hi>Augustin.</hi>
+               </note> More is ex<g ref="char:EOLhyphen"/>pected of you, then of other Heires. In others we seeke but for the Father; in you, we looke for both a Father and a Grandfather; as <hi>Paul</hi> expected in <hi>Timothie</hi> the Faith,<note place="margin">2. <hi>Tim.</hi> 1.5.</note> which was found in his Grandmother and Mother. A fairer Patrimonie they could not leaue you, then the president of their Ʋertues. Better examples you can hardly finde, then they haue left you: Your Match into a worthy House (the weal<g ref="char:EOLhyphen"/>thiest of the West) cannot so much aduance you,<note place="margin">Sir <hi>Richard Ro<g ref="char:EOLhyphen"/>barts,</hi> Knight and Baronet.</note> as an emulation to match (if not exceed) the worth of your owne House, and an endeuor that their Endowments may not die, while you doe liue. And that you may long liue, and they in you, to Gods glory, the benefit of his Church, and comfort of your Countrey; prayeth, and will pray while he liueth, He who remayneth</p>
+            <closer>
+               <signed>Your Worships in all Christian loue and dutie, CHARLES FITZ-GEFFRY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:2312:4"/>
+            <pb n="1" facs="tcp:2312:4"/>
+            <head>ELISHA HIS LAMENTATION.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. KING. 2.12.</hi>
+                  </bibl>
+                  <p>My Father, my Father! the Chariot of Israel, and the Horse-men thereof!</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">E</seg>LISHA his com<g ref="char:EOLhyphen"/>plaint at the parture or rapture of <hi>Elijah</hi> from him into Hea<g ref="char:EOLhyphen"/>uen, consisting of,</p>
+            <p>First, A Patheti<g ref="char:EOLhyphen"/>cal exclamation, <hi>My Father, my Father!</hi>
+            </p>
+            <p>Secondly, A plau<g ref="char:EOLhyphen"/>sible Acclamation, <hi>The Chariot of Is<g ref="char:EOLhyphen"/>rael, and the Horse-men thereof.</hi>
+            </p>
+            <p>The first sheweth <hi>Elisha</hi> his affection to <hi>Elijah, My Father, my Father!</hi> The second, <hi>Elijah</hi> his
+<pb n="2" facs="tcp:2312:5"/> protection of Israel, <hi>The Chariot of Israel, and the Horse-men thereof.</hi> The first, What <hi>Elijah</hi> was to <hi>Elisha</hi> in particular, A Father, yea, a double Fa<g ref="char:EOLhyphen"/>ther, <hi>My Father, my Father!</hi> The second, What he was to all Israel in generall, <hi>The Chariot of Israel, and the Horse-men thereof.</hi> In both, <hi>Elisha</hi> lamenteth in one <hi>Elijah,</hi>
+               <note place="margin">
+                  <hi>1.</hi> Damnum pri<g ref="char:EOLhyphen"/>uatum.</note> a double losse: first, his owne priuate losse, he lost in him a Father, <hi>My Father,</hi>
+               <note place="margin">
+                  <hi>2.</hi> Damnum pub<g ref="char:EOLhyphen"/>licum.</note>
+               <hi>my Father!</hi> Secondly, the publike losse of all Israel, they lost in him an Armie Royall, <hi>The Chariot of Israel, and the Horse-men thereof.</hi>
+            </p>
+            <p>I begin with the former, the Patheticall excla<g ref="char:EOLhyphen"/>mation, wherein are three branches obserueable.</p>
+            <p>The
+<list>
+                  <item>1. Appellation, <hi>Father.</hi>
+                  </item>
+                  <item>2. Appropriation, <hi>My Father.</hi>
+                  </item>
+                  <item>3. Iteration, or Ingemination, <hi>My Fa<g ref="char:EOLhyphen"/>ther, my Father.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For the first of these, the Appellation, I need not shew you how diuersly the word, <hi>Father,</hi> is vsed in Scripture, but how it is properly to bee vnderstood in this place. You know that there are Fathers by</p>
+            <p>First, Nature, as <hi>Abraham</hi> was to <hi>Isaac,</hi> and <hi>Isaac</hi> to <hi>Iacob.</hi>
+               <note place="margin">1. <hi>Tim.</hi> 5.1.</note>
+            </p>
+            <p>Secondly, Age, as those who haue the aduan<g ref="char:EOLhyphen"/>tage of vs in yeares, <hi>Rebuke not an Elder, but ex<g ref="char:EOLhyphen"/>hort him as a Father.</hi>
+            </p>
+            <p>Thirdly, Office, as<note n="*" place="margin">
+                  <hi>Isai.</hi> 49.23.</note> Magistrates,<note n="a" place="margin">
+                  <hi>Pro.</hi> 4.1. 1. <hi>Thes.</hi> 2.7. 1. <hi>Cor.</hi> 4.15.</note> Ministers,<note n="b" place="margin">2. <hi>King.</hi> 3.15.</note> Masters,<note n="c" place="margin">1. <hi>Tim.</hi> 1.2. <hi>Tit.</hi> 1.4.</note> Tutors,<note n="d" place="margin">
+                  <hi>Gen.</hi> 4.20, 21.</note> Teachers, and generally all Superiours.</p>
+            <pb n="3" facs="tcp:2312:5"/>
+            <p>Fourthly, Affection and kindnesse, as our<note n="e" place="margin">
+                  <hi>Gen.</hi> 45.8. <hi>Iob</hi> 29.16. <hi>Psal.</hi> 68.5.</note> Fa<g ref="char:EOLhyphen"/>uourers, Benefactors, and Protectors.</p>
+            <p>In the three later regards is <hi>Elijah</hi> here stiled by <hi>Elisha, Father;</hi> in regard of Age, for he was his elder; in regard of Office, for hee was his Master, and (as it were) his Tutor; in regard of Affection, for (vnder God) he was his especiall Benefactor and Protector; so that the very Ap<g ref="char:EOLhyphen"/>pellation, <hi>Father,</hi> as it is here vsed, is Doctrinall, for it teacheth vs, that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>1</label> Superiours ought to beare themselues as Fathers towards their Inferiours.</q>
+            </p>
+            <p>Men of eminence and authoritie in Church and Common-wealth, ought to bee as Fa<g ref="char:EOLhyphen"/>thers to those who are vnder their charge. They ought to bee so, because they are so cal<g ref="char:EOLhyphen"/>led. God and Man, Grace and Nature, haue agreed to conferre this honourable title, <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> vpon those that haue well deserued; of such as are vnder them, or doe belong vnto them. <hi>Ioseph,</hi> hauing by his prudence and pro<g ref="char:EOLhyphen"/>uidence preserued <hi>Pharaoh</hi> and his Kingdome, is rewarded with this honourable appellation, <hi>Abrech,</hi> or tender Father,<note place="margin">
+                  <hi>Gen.</hi> 41.43.</note> or (according to some) <hi>the father of the King.</hi> Yea, hee himselfe assumeth it, as first conferred on him by God himselfe,<note place="margin">
+                  <hi>Gen.</hi> 45.8.</note>
+               <hi>God hath made me a father vnto Pha<g ref="char:EOLhyphen"/>raoh.</hi>
+            </p>
+            <p>Nature herein followeth Grace, and graceth persons eminent in place, if also excellent in parts, with this excellent appellation.<note n="*" place="margin">Roma Patrem patris Ciceronem libera dixit. <hi>Iu<g ref="char:EOLhyphen"/>venal.</hi>
+               </note> Rome
+<pb n="4" facs="tcp:2312:6"/> freed by the vigilancy of <hi>Cicero,</hi> from the con<g ref="char:EOLhyphen"/>spiracy of <hi>Cateline,</hi> bestowed on him this title, <hi>Father of the Countrey.</hi>
+               <note n="*" place="margin">Domini ap<g ref="char:EOLhyphen"/>pellat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onem vt ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edictum, &amp; opprobrium sem<g ref="char:EOLhyphen"/>per exhor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uit, <hi>Sueton. in O<g ref="char:EOLhyphen"/>ctauio, cap. 51.</hi>
+               </note>
+               <hi>Augustus Caesar,</hi> who abhorred the title of Lord, as a reproch rather then an honour, accepted this of <hi>Father of the Countrey,</hi> as the height of his ambition,<note n="a" place="margin">Compos vnto<g ref="char:EOLhyphen"/>rum meorum sa<g ref="char:EOLhyphen"/>ctus, &amp;c. <hi>id. cap. 58.</hi>
+               </note> ha<g ref="char:EOLhyphen"/>uing afterward nothing to wish for (as hee pro<g ref="char:EOLhyphen"/>tested) saue that he might maintayne that Title to the end of his life. <hi>Tiberius</hi> at first refused it,<note n="b" place="margin">
+                  <hi>Tacitus An<g ref="char:EOLhyphen"/>nal.</hi> lib. 1.</note> either out of his accustomed craft, of refusing that in shew which he most affected, or because as he was conscious to himselfe, that he did not deserue it,<note n="c" place="margin">Sueton. in Ti<g ref="char:EOLhyphen"/>ber. <hi>cap. 67.</hi>
+               </note> so he despaired that euer he should be able to support it.</p>
+            <p>Now Superiours as they are called, so they ought to be Fathers, especially in a foure-fold regard. <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, in regard of <hi>Affection;</hi> The loue of a Father to a Sonne, none saue a Father can well conceiue, no not a Sonne himselfe, vntill he bee a Father. God, to expresse his loue to vs, which cannot by vs be expressed or conceiued, setteth forth himselfe to vs as a Father. So should good Gouernours loue those who are of their charge,<note place="margin">
+                  <hi>Matth.</hi> 6.9.</note> as a Father doth his Children. Such was the affection of <hi>Moses</hi> to the People, of <hi>Paul</hi> to his Countrimen, when in an extasie of loue they wished themselues abandoned, that theirs might bee blessed. These were Fa<g ref="char:EOLhyphen"/>thers indeed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, of <hi>Protection:</hi> A Father will ad<g ref="char:EOLhyphen"/>uenture his life for the safetie of his Sonne. No
+<pb n="5" facs="tcp:2312:6"/> maruell, for euen Beasts and Birds will expose themselues to danger for the safetie, to death, for the life of their young. So will a good Gouer<g ref="char:EOLhyphen"/>nour rather affect the safetie of his, then his owne safetie. Therefore <hi>Dauid</hi> desired to di<g ref="char:EOLhyphen"/>uert the wrath of the Lord from the People, on himselfe and his owne house. What Father could doe more?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, of <hi>Correction:</hi> To correct is the Of<g ref="char:EOLhyphen"/>fice of a Father, but with fatherly correction. <hi>A Father correcteth the Child whom he loueth,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.6.9.</note> and loueth the Child whom hee correcteth, and in greatest choler remembreth that he is a Father who smiteth, and a Sonne who smarteth; and therefore vseth correction, no otherwise then Marriners doe eiection of their fraight in a tem<g ref="char:EOLhyphen"/>pest, for the safetie of the Ship,<note place="margin">Ille dolet quoties cogitur esse se<g ref="char:EOLhyphen"/>rox.</note> and is payned himselfe when he his compelled to punish. He desires, if it may be, rather to correct with ter<g ref="char:EOLhyphen"/>rifying then to terrifie with correcting, and of<g ref="char:EOLhyphen"/>ten shaketh the rod that hee may the more sel<g ref="char:EOLhyphen"/>dome strike with it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Lastly, in regard of <hi>Example:</hi> Superiours should be Fathers, not onely in regard of presi<g ref="char:EOLhyphen"/>dence,<note place="margin">Ʋt plurimum subiectus populus se solet confor<g ref="char:EOLhyphen"/>mare, corum mo<g ref="char:EOLhyphen"/>ribus qui poten<g ref="char:EOLhyphen"/>tiâ praeualent, <hi>Basil. in Isai. 1.</hi> ad illa verba, Principes tui non obediunt, &amp;c.</note> but chiefely of precedence in godlinesse and all vertues to their Inferiours. All example is powerfull either to good or euill, but most of them who are of most power. Great mens liues are no litle lawes to those who liue vnder them: their Examples doe as much as their Edicts, their presidents are no lesse publike and more
+<pb n="6" facs="tcp:2312:7"/> perswasiue then their Proclamations. The title, <hi>Father,</hi> giuen to men of eminence, putteth them in minde of these, besides many other duties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>1</label> But may I not now aske, as once the Prophet did:<note place="margin">
+                  <hi>Zach.</hi> 1.5.</note>
+               <hi>Your Fathers! Where are they?</hi> Such Fa<g ref="char:EOLhyphen"/>thers, where are they now to be found? Such there were: but doe such liue for euer? Or doe they who arise in their steads, endeuour to bee such Fathers? May wee not borrow the Apostles speech?<note place="margin">
+                  <hi>1.</hi> Cor. <hi>4.15.</hi> Pauci reuera sunt qui rectè patres vocentur; pauci quippe sunt numero qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s tangat ve<g ref="char:EOLhyphen"/>hementer sollici<g ref="char:EOLhyphen"/>tudo salutis co<g ref="char:EOLhyphen"/>rum qui eis com<g ref="char:EOLhyphen"/>missi sunt. <hi>Pet. Martyr. ad locum.</hi>
+               </note>
+               <hi>Though you haue many Ma<g ref="char:EOLhyphen"/>sters, yet haue you not many Fathers.</hi> There are many who professe the Names, possesse the Places of <hi>Fathers;</hi> not many that affect their People as <hi>Fathers,</hi> protect the Weake as <hi>Fa<g ref="char:EOLhyphen"/>thers,</hi> correct the Delinquent as <hi>Fathers,</hi> and as <hi>Fathers</hi> direct and lead their Children by vertuous and religious Examples. What <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> are they, who rather affect themselues and their owne priuate ends, whose whole studie is to prouide for themselues; carelesse of the com<g ref="char:EOLhyphen"/>mon Good, not regarding the Ship of Church or Common-wealth, but in a Storme abando<g ref="char:EOLhyphen"/>ning it rather (as the Mariners would the Ship wherein <hi>Paul</hi> sayled) that they may saue them<g ref="char:EOLhyphen"/>selues in the Cock-boat of their owne For<g ref="char:EOLhyphen"/>tunes?<note place="margin">
+                  <hi>Act.</hi> 27.30.</note> Such are not <hi>Patres,</hi> but <hi>Praedones.</hi> The Apostle saith,<note place="margin">2. <hi>Cor.</hi> 12.14.</note>
+               <hi>Children vse not to lay vp for their Fathers, but Fathers for their Children.</hi> What <hi>Fathers</hi> are they then, who euen flea their Chil<g ref="char:EOLhyphen"/>dren, that they may lay vp for themselues; as <hi>Saturne</hi> is fayned to haue deuoured his owne
+<pb n="7" facs="tcp:2312:7"/> Sonnes? God blesse all good Children from such Fathers!</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>2</label> Must men of eminence and authoritie bee <hi>Fathers?</hi> What make they then in the Chaire of <hi>Fathers,</hi> who both for age and carriage are more fit to stand among Children? Ministers are called <hi>Elders,</hi> Magistrates were called<note n="a" place="margin">Tales oportet esse maturam aetate prouectos &amp; qui temporis prolixitudine euaserint multa<g ref="char:EOLhyphen"/>rum rerum cog<g ref="char:EOLhyphen"/>nitione periti, &amp;c. <hi>Basil. in Isai. c. 3.</hi>
+               </note>
+               <hi>Se<g ref="char:EOLhyphen"/>nators;</hi> to shew that yeares must maturate men to such Functions: yet both in Church and Common-wealth, are not Children stept into the Seats of <hi>Fathers?</hi>
+               <note n="b" place="margin">Primis qua<g ref="char:EOLhyphen"/>draginta annis Aegyptijs disci<g ref="char:EOLhyphen"/>plinis institutus est. <hi>Basil. pro<g ref="char:EOLhyphen"/>aem. in Isai.</hi>
+               </note>
+               <hi>Moses</hi> spent one fortie yeares (as in a Free-Schoole) among the Egyptians, and fortie yeares more in the De<g ref="char:EOLhyphen"/>sart, vsing that solitude as an Academe, for Con<g ref="char:EOLhyphen"/>templation; yet after all this, being called to the Function of a <hi>Father,</hi> hee excused his in<g ref="char:EOLhyphen"/>sufficiencie, saying:<note n="c" place="margin">
+                  <hi>Exod.</hi> 3.11.</note>
+               <hi>Who am I, that I should goe to</hi> Pharaoh? What are they then, who haue not yet tythed halfe <hi>Moses</hi> his time, in Vniuersitie, or Innes of Court; that they should so suddenly start vp to be Fathers, in Church or State? I know, that Iudgement is not ne<g ref="char:EOLhyphen"/>cessarily tied to Age. Some young <hi>Samuel</hi> may haue better reuelations then an old <hi>Eli;</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 32.4.</note>
+               <hi>Elihu</hi> the youngest, may be the stayedest and soundest among <hi>Iobs</hi> Friends; <hi>Ioseph</hi> at thirtie yeares may be a Father to <hi>Pharaoh,</hi> and to all Egypt;<note place="margin">Iohn <hi>20.4.</hi> —Tempore certè Virtutem non prima negant, non vltima do<g ref="char:EOLhyphen"/>nant. <hi>Ioseph. Iscanus, de bell. Troian. l. 1.</hi>
+               </note> Wisedome many times out-runneth yeares, as <hi>Iohn</hi> did <hi>Peter,</hi> the younger the elder; Vnder<g ref="char:EOLhyphen"/>standing may be ripe in the Brest, when there doe scarce appeare any blossomes of a Beard.
+<pb n="8" facs="tcp:2312:8"/> Let such haue their place, their prayse. But what make they in the place of <hi>Fathers,</hi> who are Children in Vnderstanding as well as in Yeares? <hi>Fathers</hi> should haue some-thing, euen in their Faces, to shew that they are <hi>Fathers.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>3</label> Are Superiors <hi>Fathers</hi> vnto vs? Then ought wee to behaue our selues as dutifull Children vnto them;<note n="a" place="margin">
+                  <hi>Leuit.</hi> 19.3. <hi>Malach.</hi> 1.6. <hi>Ephes.</hi> 6.2.</note> honouring and louing them as our <hi>Fathers,</hi>
+               <note n="b" place="margin">
+                  <hi>Ephes.</hi> 6.1. <hi>Col.</hi> 3.20. <hi>Luke</hi> 2.51.</note> obeying them as our <hi>Fathers,</hi>
+               <note n="c" place="margin">1. <hi>Tim.</hi> 5.4. <hi>Matth.</hi> 15.6. <hi>Gen.</hi> 47.12.</note> ayding and supporting them as our <hi>Fathers,</hi> and<note n="d" place="margin">
+                  <hi>Ephes.</hi> 5.1.</note> following their good Examples, as deare Children. How can wee grudge them these small returnes, receiuing so much good, so ma<g ref="char:EOLhyphen"/>ny Blessings by them? Such <hi>Fathers</hi> are to be loued while they liue, and to bee lamented at their death, as if they were our naturall Fa<g ref="char:EOLhyphen"/>thers; as here <hi>Elisha</hi> doth <hi>Elijah,</hi> crying out,
+<q>My Father!</q>
+            </p>
+            <p>Which is the second Branch, wherein he doth appropriate him to himselfe, as if he had beene his naturall Father. Whereas <hi>Elijah</hi> was not Father to <hi>Elisha</hi> by Nature, but by a greater and surer bond, namely, by Grace. Adoption is an imitation and supply of Issue.<note place="margin">
+                  <hi>Imitatur adop<g ref="char:EOLhyphen"/>tio prolem.</hi> Au<g ref="char:EOLhyphen"/>son. in Neru.</note>
+               <hi>Elijah</hi> hauing no Sonne, adopted godly <hi>Elisha</hi> for his Sonne, made him his Heire,<note place="margin">
+                  <hi>Haereditatem spiritualem, &amp;c.</hi> P. Martyr ad locum.</note> and bequeathed vnto him a spirituall Legacie, euen the Inheritance of his Spirit doubled vpon him. Doubtlesse, <hi>Elijah</hi> the Thisbite had some of his bloud and kind<g ref="char:EOLhyphen"/>red liuing, who by Nature were neerer to him
+<pb n="9" facs="tcp:2312:8"/> then <hi>Elisha;</hi> yet for the Graces of God which were in him, he preferred him before them, and tooke him for his Sonne; for which cause, <hi>Eli<g ref="char:EOLhyphen"/>sha</hi> taketh him also for his Father.</p>
+            <q>My Father!</q>
+            <p>Whereby wee are taught, that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> The spirituall Kindred is the best and su<g ref="char:EOLhyphen"/>rest.</q>
+            </p>
+            <p>Kindred by Generation, is nothing so neere and deare, as that by Regeneration. Grace is a farre firmer bond then Nature; Faith doth more firmely vnite men, then the Flesh: Reli<g ref="char:EOLhyphen"/>gion is the surest Ciment of Affection. Be<g ref="char:EOLhyphen"/>tweene man and man, as men, there cannot be a greater bond, then that of Bloud; but be<g ref="char:EOLhyphen"/>tweene them, as Christians, there is a greater, namely, that of Grace. They who are thus al<g ref="char:EOLhyphen"/>lyed, are linked together with a seuen-fold Cord: first, <hi>one Body;</hi> secondly, <hi>one Spirit;</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 4.5, 6.</note> thirdly, <hi>one hope of Calling;</hi> fourthly, <hi>one Lord;</hi> fiftly, <hi>one Faith;</hi> sixtly, <hi>one Baptisme;</hi> seuenth<g ref="char:EOLhyphen"/>ly, <hi>one God, and Father of all:</hi> so many <hi>Ones,</hi> must needes make such to be one. If a three-fold twisted Cord be hardly, then surely this seuen-fold twisted Cord cannot possibly bee broken.</p>
+            <p>Naturall Parents haue often proued vnna<g ref="char:EOLhyphen"/>turall to their owne Children: some of them haue butchered their poore Infants,<note place="margin">
+                  <hi>Deut.</hi> 12.31. <hi>Wisd.</hi> 12.5, 6.</note> to their Idols. The King of Moab burnt the bones of his owne eldest Sonne (<note n="*" place="margin">D. <hi>Benefield</hi> on <hi>Amos</hi> 2. <hi>Lect.</hi> 2.</note> not the King of
+<pb n="10" facs="tcp:2312:9"/> Edoms Sonne, as some suppose) into Lime. Some cruell Mothers haue embrued their hands in the bloud of their owne bowels. Ge<g ref="char:EOLhyphen"/>nerally, all bonds of Bloud haue beene broken. The knot of Christian Kindred, by Death it selfe cannot be dissolued. Therefore, among godly men, the Graces of God in men haue euer had the greatest sway in placing their Affecti<g ref="char:EOLhyphen"/>ons, and no Affinitie nor Consanguinitie hath so endeared them,<note place="margin">1. <hi>Sam.</hi> 18.1.20.17.</note> as Pietie; as appeareth by the Example of <hi>Dauid</hi> and <hi>Ionathan.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>1</label> Learne wee hereby to rectifie our Affection of Loue: It is indeed a signe of a deplorate and desperate nature, to be without naturall Affection. But too many, who would seeme to be regenerate,<note place="margin">
+                  <hi>Rom.</hi> 6.31.</note> are more swayed by naturall then by Christian Affection.<note place="margin">
+                  <hi>Gal.</hi> 6.10.</note>
+               <hi>Doe good vnto all</hi> (sayth the Apostle) <hi>but especially vnto the Household of Faith.</hi> But among too many, the Family of the Flesh is so affected, that the Fa<g ref="char:EOLhyphen"/>mily of the Faithfull is neglected. The Byas of Bloud, carrieth away our Affection from the right Marke, the Graces of God in his Saints. Euen when men leaue the World, this worldly corruption leaueth not them: they will rather leaue all to a Reprobate, a Roarer, a Sonne of <hi>Belial,</hi> then on their Wills insert the least Le<g ref="char:EOLhyphen"/>gacie to a Saint, or bequeath so much as their Mantle to some <hi>Elisha;</hi> who, if they were Saints themselues, is more neerely allyed vnto them by Grace.</p>
+            <pb n="11" facs="tcp:2312:9"/>
+            <p>I haue yet seene a greater euill vnder the Sun. This is not the worst that men doe preferre re<g ref="char:EOLhyphen"/>probate siluer, vngodly Sonnes or Cousins be<g ref="char:EOLhyphen"/>fore Saints, that are not of their blood; but if there be one of their neare kindred, that is more sanctified then others, hee is therefore the far<g ref="char:EOLhyphen"/>ther from them in affection, because he is nearer vnto Christ; and they will rather hunt for an heire in the farthest fields of their Kindred, yea, out of their Kindred, then accept of one whom God bringeth to their hands nearer home. So that it seemes they doe not so much loue their owne Kindred as hate Christs; for one of their owne Kindred shall bee the farther from them, the nearer that hee is vnto Christ; and that which should make one Kin to them, though he were a stranger, renders him a stranger though he be a Kinsman or a Brother.</p>
+            <p>Hath a Father sundrie Sonnes, among whom one is consecrated vnto God, by being a Mini<g ref="char:EOLhyphen"/>ster of his Word? That Sonne commonly is least remembred, if not left out of his Fathers Testament, because he is the dispenser of Christs Testament; and,<note n="*" place="margin">Nullis omni<g ref="char:EOLhyphen"/>no à suis minus relinquitur quàm quibus ob Dei reuerentiam plus debetur, nullos pietas minus respicit, quàm quos prae<g ref="char:EOLhyphen"/>cipuè religio commendat: ac per hoc vna tan<g ref="char:EOLhyphen"/>tùm re parenti<g ref="char:EOLhyphen"/>bus viles fiunt quia caeperint Deo esse pretiosi. <hi>Saluian. ad Ec<g ref="char:EOLhyphen"/>clesiam Ca<g ref="char:EOLhyphen"/>tholic. lib. 3.</hi>
+               </note> as <hi>Saluian</hi> once complay<g ref="char:EOLhyphen"/>ned, <hi>Lesse is done by the Father for none, then for him to whom most is due, his affection respecteth none lesse then him whom Religion most of all com<g ref="char:EOLhyphen"/>mendeth, as if those Children were most vile to their Parents, who are most precious vnto God.</hi> But God doth well meet with them for contem<g ref="char:EOLhyphen"/>ning his Children, euen when they are their
+<pb n="12" facs="tcp:2312:10"/> owne. Their purpose is to set vp their Houses, but by such preposterous affection they demo<g ref="char:EOLhyphen"/>lish them; they intend to make all sure and safe, but hereby they ouerthrow all.<note place="margin">Vtinam tam fa<g ref="char:EOLhyphen"/>cilè tu saluus es<g ref="char:EOLhyphen"/>ses, quàm tua omnia deperi<g ref="char:EOLhyphen"/>bunt, <hi>Saluian. vbi supra.</hi>
+               </note> I could wish (with the same <hi>Saluian</hi>) that they themselues were as sure to be saued, as their substance so be<g ref="char:EOLhyphen"/>stowed, is sure to be wasted. They leaue all to one, who layeth all in the dust at last; and iust<g ref="char:EOLhyphen"/>ly, because they preferred Dust before Gold, the World before God. Let no man mistake me, I condemne not naturall regards of Heires, Bre<g ref="char:EOLhyphen"/>thren, Kinsmen: for my part, the burthen of <hi>Tyrus</hi> be vpon them, who (with <hi>Tyrus) forget the brotherly couenant.</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 1.9.</note> Onely this I say, let not <hi>Esau</hi> get away the blessing from <hi>Iacob,</hi> nor <hi>Is<g ref="char:EOLhyphen"/>mael</hi> cause <hi>Isaac</hi> to be abandoned. Let not car<g ref="char:EOLhyphen"/>nall Kindred steale away all respects from Spi<g ref="char:EOLhyphen"/>rituall:<note place="margin">1. <hi>Cor.</hi> 15.50.</note>
+               <hi>Flesh and Blood shall not inherit the King<g ref="char:EOLhyphen"/>dome of Heauen.</hi> Why then should it inherit all our kindnesse on Earth? Let not Christians im<g ref="char:EOLhyphen"/>mure all their kindnesse within the narrow nookes of Kindred and Alliance, which (by <hi>Dauids</hi> example) is to be extended <hi>to the Saints that are on Earth.</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 16.3.</note> As vnto Christ, so vnto Chri<g ref="char:EOLhyphen"/>stians these should be <hi>our Mother,</hi>
+               <note place="margin">
+                  <hi>Matth.</hi> 12.48.</note>
+               <hi>our Sister, our Brother,</hi> (I may adde our sonnes) who heare the Word and doe the Will of our heauenly Fa<g ref="char:EOLhyphen"/>ther. Wee ought indeed to loue our naturall Kindred, but on these termes,<note n="*" place="margin">
+                  <hi>Si boni sint &amp; Deo s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> Bern. de modo <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iuendi, ser. 5.</note> if they be nee<g ref="char:EOLhyphen"/>rer Kin to vs then Nature can render them, that is, if they be gracious, if they be godly: other<g ref="char:EOLhyphen"/>wise
+<pb n="13" facs="tcp:2312:10"/> Christ himselfe did not care much for his kindred, yea otherwise, hee did not accompt them his kindred; otherwise (<note n="b" place="margin">Plus debemus diligere extra<g ref="char:EOLhyphen"/>neos qui nobis coniuncti sunt vinculo charita<g ref="char:EOLhyphen"/>tis quàm propin<g ref="char:EOLhyphen"/>quos qui Deum non diligunt.—</note> sayth <hi>Bernard) we ought to loue strangers, tyed to vs by the bond of charitie, more then our neerest kindred, who loue not God,</hi>
+               <note n="c" place="margin">—Quia san<g ref="char:EOLhyphen"/>ctior est copula co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dium quàm corporum. <hi>Ber. ibid. ser. 7.</hi>
+               </note>
+               <hi>because the coniunction of soules is more sacred then the bond of bloud.</hi> Wee should wish well to our kinsfolke, and better wee can<g ref="char:EOLhyphen"/>not wish them, then that they should be sonnes of God, and brethren of Christ;<note n="d" place="margin">Et quem cog<g ref="char:EOLhyphen"/>nato iunctum mih<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> foedere lae<g ref="char:EOLhyphen"/>tor, Gratuler &amp; sanctâ sub relli<g ref="char:EOLhyphen"/>gione recep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um. <hi>Paulinus ad Iouium.</hi>
+               </note> yea, we must desire and endeuour, that those who are neere to vs by nature, may yet bee neerer to vs by grace. To Saints indeed, a Saint, though a stranger is a Cousin, a brother; when a bro<g ref="char:EOLhyphen"/>ther that is not a Saint, is farther off then a stranger.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>2</label> You who haue no children, with <hi>Elijah,</hi> chuse you some <hi>Elisha</hi> to be your sonne;<note n="e" place="margin">Quem legisse iuuet quem ge<g ref="char:EOLhyphen"/>nuisse velit. <hi>Au<g ref="char:EOLhyphen"/>son. in Nerua.</hi>
+               </note> such a one, as being adopted, may doe you more comfort, more credite, then one borne of your loines might haue done; such a one, as you would wish to haue begotten rather then to haue adopted. Follow the counsell of a man of God,<note n="f" place="margin">B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atus ille qui suos ipse d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> am<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s Spiritu am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t cuius cha<g ref="char:EOLhyphen"/>ritas Christi cul<g ref="char:EOLhyphen"/>tus est, qui in na urae vinculo Deum cogitat naturarum pa<g ref="char:EOLhyphen"/>trem, &amp; amoris m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nera in Sa<g ref="char:EOLhyphen"/>crificia conuer<g ref="char:EOLhyphen"/>tens, id quod pignoribus suis prestat Deo suo foe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erat, &amp;c. <hi>Saluian. ad Eccl. C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. l. 3.</hi>
+               </note>
+               <hi>Let the loue of Christ be the load-starre of your loue, and in chusing a sonne, remember God your heauenly Father: so bestow your Lega<g ref="char:EOLhyphen"/>cies, as that they may be also Sacrifices, that what you giue to your heire, you may also lend vnto the Lord, and leauing to others a temporall inheri<g ref="char:EOLhyphen"/>tance, you may lay vp for your selues a good foun<g ref="char:EOLhyphen"/>dation, for an eternall blessing.</hi> And if you loue
+<pb n="14" facs="tcp:2312:11"/> those, who are linked to you by the flaxen cords of flesh, how much more should you loue those, who are tyed to you by the adaman<g ref="char:EOLhyphen"/>tine chaines of grace? If we be true members of Christ, all the Saints on Earth are our fel<g ref="char:EOLhyphen"/>low-members, and so neerer to vs then our nee<g ref="char:EOLhyphen"/>rest kindred. It was grace, not nature, which made <hi>Elijah</hi> a father to <hi>Elisha:</hi> the same grace moued <hi>Elisha</hi> to loue while he liued, &amp; at his de<g ref="char:EOLhyphen"/>parture to lament <hi>Elijah</hi> as a father, as his owne father; yea, as more then a father, as a double father. Hence is the ingemination or iteration, (the last branch of our first part)
+<q>My father, my father.</q>
+            </p>
+            <p>Father is a sweet word: it will not soone out of the mouth, because it is seldome out of the mind of a true hearted sonne. When the tongue once strikes vpon that sweet string, it deligh<g ref="char:EOLhyphen"/>teth to quauer and to descant, so pleasing is the musicke. Out of the abundance of the heart the mouth speaketh: Where the fountaine is vberant, needs must the streames bee fluent. This double compellation argue the double affection, and that produceth doubled lamen<g ref="char:EOLhyphen"/>tation;
+<q>My father, my father!</q>
+            </p>
+            <p>Wherein you may obserue, how the Pro<g ref="char:EOLhyphen"/>phet premiseth his moane for his owne pecu<g ref="char:EOLhyphen"/>liar losse, as a preface to his mourning for the publicke calamitie, which ensueth; first, la<g ref="char:EOLhyphen"/>menting his priuate distresse; and afterward,
+<pb n="15" facs="tcp:2312:11"/> Israels desolation. Whence it will follow that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>3</label> In publicke losses wee may lawfully lament our priuate interesses.</q>
+            </p>
+            <p>Domesticall Fathers, speciall benefactors, when they are taken from vs, their departure cannot chuse but grieuously affect vs, as well for our owne as for the generall dammage. This indulgence our Sauiour gaue to the mournfull women at his passion. When he said,<note place="margin">
+                  <hi>Luk.</hi> 23.28.</note>
+               <hi>Weepe not for me, but weepe for your selues, and for your children.</hi> Thus did <hi>Ieremie</hi> in the generall de<g ref="char:EOLhyphen"/>solation of Israel, for the death of <hi>Iosias,</hi> cry out for himselfe.<note place="margin">
+                  <hi>Lam.</hi> 3.1.</note>
+               <hi>I am the man that hath seene affli<g ref="char:EOLhyphen"/>ction;</hi> and againe, <hi>O Lord behold mine affliction!</hi> Good reason; for wee are part of the publicke, and the griefe for the whole, cannot wholly swallow vp the sorrow for our selues. In Chri<g ref="char:EOLhyphen"/>stians wee are Men, and in the bodie wee are members. Safely therefore, and with a good conscience in lamenting the publicke losse of Church and Common-wealth, at the death of a father, wee may interweaue our owne griefe and interest our speciall sorrow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> Farre be it then from vs to condemne those, who doe mourue for the decease of their espe<g ref="char:EOLhyphen"/>ciall benefactors and friends, so long as they keepe themselues within the precincts of the Apostles precept,<note place="margin">1. <hi>Thes.</hi> 4.13.</note> and <hi>sorrow not as those that are without hope.</hi> Let vs take heed how wee rashly doe taxe such mourning, or such mour<g ref="char:EOLhyphen"/>ners; yea, though it extend to some ingemina<g ref="char:EOLhyphen"/>tion
+<pb n="16" facs="tcp:2312:12"/> of griefe, as here, <hi>My father, my father!</hi> lest we condemne the generation of the iust. <hi>As is the man,</hi>
+               <note place="margin">
+                  <hi>Iudg.</hi> 8.21.</note>
+               <hi>so is his strength:</hi> as is the cause, so is the complaint. The better that any mans life hath beene to vs, the more bitter needs must his death bee to vs. If liuing hee doubled his loue towards vs, how can we chuse but double our lamentation for him at his depriuing? As here <hi>Elisha</hi> doth, <hi>My father, my father!</hi> And elsewhere <hi>Dauid,</hi> in more excesse, vpon a farre lesse iustifiable cause, <hi>My sonne, my sonne,</hi> &amp;c. It is not alway true,<note place="margin">Curae leues lo<g ref="char:EOLhyphen"/>quuntur, &amp;c.</note> that <hi>the greatest griefe spea<g ref="char:EOLhyphen"/>keth least;</hi> sometimes (like some Eccho's) it doubleth, yea trebleth the word, according to the woe that doth procure it. But then indeed is sorrow worth the doubling, when with the priuate dammage, it importeth a publike de<g ref="char:EOLhyphen"/>triment, and not only a <hi>Father</hi> is departed, but such a Father as was while he suruiued,
+<q>The Chariot of Israel, and the Horsemen thereof.</q>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Part</hi> 2.</note>Which is the second part of my Text, secon<g ref="char:EOLhyphen"/>ding the former sad Exclamation, with a due Acclamation.<note place="margin">
+                  <hi>Psal.</hi> 42.7.</note> As one gulfe, so one griefe cal<g ref="char:EOLhyphen"/>leth on another: and now the patheticall Pro<g ref="char:EOLhyphen"/>phet, from deploring his priuate losse passeth on to lament the publike; as he lost in <hi>Elijah</hi> a Father, so all Israel in him a Father and a De<g ref="char:EOLhyphen"/>fender.</p>
+            <p>
+               <hi>The Chariot of Israel, and the Horsemen thereof:</hi> that is, the defence and munition, the strength
+<pb n="17" facs="tcp:2312:12"/> and protection of Israel:<note place="margin">Currus &amp; equi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ètes constat praeci<g ref="char:EOLhyphen"/>pua esse belli ro<g ref="char:EOLhyphen"/>bora. —Perinde est ac si dixisset eum fuisse dum vixit reipub. nec non Ecclesiae colu<g ref="char:EOLhyphen"/>men. <hi>P. Mart. ad locum.</hi>
+               </note> for in these two Cha<g ref="char:EOLhyphen"/>riots and Horsemen, consisted the cheifest force of an army in those times. So that it is as much as if he had said, that <hi>Elijah</hi> was while he liued, the chiefe pillar and supporter of Israels, both Church and Common-wealth. Whence wee may well inferre, that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>4</label> Godly men are the best Munition.</q>
+            </p>
+            <p>The most zealous for God, are the most ad<g ref="char:EOLhyphen"/>vantagious for the State. The blesse Saints on Earth, are the best benefactors to the Earth. <hi>Godlinesse is profitable to all things</hi> (saith the A<g ref="char:EOLhyphen"/>postle,<note place="margin">1. <hi>Tim.</hi> 4.8.</note>) therefore to the safetie and securitie of a State, which of all earthly things is most pro<g ref="char:EOLhyphen"/>fitable. <hi>Elisha</hi> doth here proclaime, that there was more power in godly <hi>Elijah,</hi> for the safetie of the Kingdome of Israel, then in the King himselfe, his Cohorts, and his Army-royall. Heathen men can say, that a Campe is nothing abroad, if there bee not Counsell at home; but Christians doe know, that an Army-royall is nothing, if there be not Piety as well as Policy at home.<note n="*" place="margin">Mihi ciuitas non habens pios ciues omni villâ villior est. <hi>Chrysost. ad pop. Antioch. hom. 17.</hi>
+               </note> It is the Piety of the Citizens, that is the surest safetie of the Citie.<note n="a" place="margin">
+                  <hi>Eccles.</hi> 9.16.</note>
+               <hi>VVisedome is better then strength,</hi> saith <hi>Salomon:</hi> Therefore God<note n="b" place="margin">
+                  <hi>Ier.</hi> 22. <hi>&amp;</hi> 9. <hi>&amp;c.</hi> Read 2. <hi>Chron.</hi> 20.15.17. See <hi>Prou.</hi> 11.10, 11.</note> himselfe reprooueth those, who trust to worldly policie and power without pietie. <seg rend="sup">c</seg> But where true piety is, there is safetie, though there be no souldiers, or though the souldiers drawe not a sword. It must needs be so, seeing that</p>
+            <p>First, the Godly haue the greatest courage
+<pb n="18" facs="tcp:2312:13"/> and confidence: <hi>The righteous are bold as a Ly<g ref="char:EOLhyphen"/>on:</hi> They seeke safetie where it is certainely to be found. They know that saluation is of the Lord:<note n="d" place="margin">Humanis opi<g ref="char:EOLhyphen"/>bus sperare salu<g ref="char:EOLhyphen"/>tem: Nulla sa<g ref="char:EOLhyphen"/>lus nec enim mortem morta<g ref="char:EOLhyphen"/>lia pellunt. <hi>Pau<g ref="char:EOLhyphen"/>linus B. Faelic. Natal 8.</hi>
+               </note> They know that <hi>Mortall men and mor<g ref="char:EOLhyphen"/>tall meanes, cannot driue away mortalitie and Death.</hi> Others trust in Chariots and Horses, but these in the Lord. They are resolued,<note n="e" place="margin">Maxima salus est per Deum sal<g ref="char:EOLhyphen"/>uari, aliunde nam{que} salutem quaerere, non sal<g ref="char:EOLhyphen"/>uari est, sed perdi. <hi>Basil. in Psal. 9. Tom. 3.</hi> Leuit. <hi>26.7, 8.</hi>
+               </note> that <hi>the greatest safetie is to bee saued by the Greatest, &amp; that to seeke saluation any where else then in the Lord, is the readiest way to find destruction.</hi>
+            </p>
+            <p>Secondly, they haue the surest promises: for they are promised protectiō from the Highest; <hi>You shall chase your enemies, and they shall fall be<g ref="char:EOLhyphen"/>fore you by the sword: Fiue of you shall chase an hundred, and an hundred of you shall put ten thou<g ref="char:EOLhyphen"/>sand to flight.</hi>
+            </p>
+            <p>Thirdly, they are sure of the surest succours and supplies. The godly are sure to haue God on their side: and God beeing with them, who shall be against them? Or if all the world be a<g ref="char:EOLhyphen"/>gainst them, what is all the world to the Crea<g ref="char:EOLhyphen"/>tor of the world? The Lord of Hosts is with them,<note place="margin">
+                  <hi>Psal.</hi> 125.2.</note> and where the Lord of Hosts is, there are also all the hosts of the Lord. <hi>The mountains are round about Ierusalem</hi> (saith the Psalmist) yet that is not the safetie of Ierusalem,<note place="margin">Bern. in Psal. <hi>Qui habitat,</hi> serm. 15. <hi>Psal.</hi> 127.1.</note> (as holy <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> inferreth) but that which followeth in the same verse, <hi>The Lord is round about his people:</hi> for except the Lord keep the City, as the watch<g ref="char:EOLhyphen"/>man waketh, so the Statesman counselleth, and the souldier fighteth, but in vaine. <hi>Nothing
+<pb n="19" facs="tcp:2312:13"/> more</hi>
+               <note n="*" place="margin">Maximum munimen &amp; in<g ref="char:EOLhyphen"/>expugnabilis mu<g ref="char:EOLhyphen"/>rus est diuinus fauor.—Diuina ope munito nihil est fortius, &amp; ni<g ref="char:EOLhyphen"/>hil imbecillius <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>â distituto, licet in<g ref="char:EOLhyphen"/>numeris exerci<g ref="char:EOLhyphen"/>tibus circumu al<g ref="char:EOLhyphen"/>letur. <hi>Chrys. ad pop. hom. 45.</hi> Hostibus obsi<g ref="char:EOLhyphen"/>stens &amp; inexpug<g ref="char:EOLhyphen"/>nabile turris, Praesidium. <hi>Prudent. in Hamart.</hi> Ipse intra muros turris tibi qui si<g ref="char:EOLhyphen"/>ne muris murus erit, &amp;c.—<hi>Pau<g ref="char:EOLhyphen"/>lin. B. Faelic. Natal. 8.</hi> Psal. <hi>11.1, 2.</hi> Cum fit Deus ad<g ref="char:EOLhyphen"/>iu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or &amp; qui me impugnant sunt peccatores. <hi>Basil. ad Ps. 11. T. 3. 2.</hi> Cor. <hi>10.4.</hi> N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s crucis invi<g ref="char:EOLhyphen"/>cta signum &amp; confessio munit, Armati{que} Deo mentem non quae<g ref="char:EOLhyphen"/>rin us arma Cor<g ref="char:EOLhyphen"/>poris, &amp; quan<g ref="char:EOLhyphen"/>quam membris videamur iner<g ref="char:EOLhyphen"/>mis, Arma ta<g ref="char:EOLhyphen"/>men gerimus. <hi>Paul. vbi supra.</hi>
+               </note>
+               <hi>firme then he who is fenced with diuine fa<g ref="char:EOLhyphen"/>uour, though he be naked of all humane succour: and againe, none more naked then he who is destitute of God, though hee bee clad in compleate armour.</hi> Therefore, <hi>Dauid</hi> hauing God on his side, was safer with his handfull in the Caue, then <hi>Saul</hi> without God, was with his guard and army in the Campe. Yea further, (which is strange) their very enemies (against their wills) are ay<g ref="char:EOLhyphen"/>ders vnto the Godly: for who are their enemies but the vngodly, who are also enemies vnto God, and God vnto them? God will therefore ioyne the sooner with the godly, because the wicked his enemies doe combine against them. This was <hi>Dauids</hi> comfort and confidence: hee assured himselfe that God would succour him, because they were sinners who assaulted him: <hi>In the Lord put I my trust,— For loe, the wicked bend their bowe, &amp;c.</hi> As who should say; <hi>How can I doubt of deliuerance, seeing God is my friend, and sinners are mine enemies?</hi>
+            </p>
+            <p>Lastly, the godly haue the best weapons, both defensiue and offensiue. <hi>The weapons of their warfare are not carnall, but spirituall, mighty to cast downe holds.</hi> They fight with their faith, more then others with all their forces: E<g ref="char:EOLhyphen"/>uen their silent prayers are more piercing, more preuailing then the most roaring Ord<g ref="char:EOLhyphen"/>nance. Their zeale like fire from heauen, is able to deuoure Captains and their fifties. Their righteousnesse is able to rebate the edge of the
+<pb n="20" facs="tcp:2312:14"/> sharpest sword or speare of their enemies.<note place="margin">See <hi>Prou.</hi> 21.22 Scorneful men bring a Citie into a snare, &amp;c. <hi>Prou.</hi> 29.8.</note> Whom can they not offend with these wea<g ref="char:EOLhyphen"/>pons? from whom are they not defended by these weapons? The Land of Iudah found the truth hereof in the dayes of their godly Kings and Prophets, <hi>Iehosaphat, Ezekiah, Iosias, Isay, Ieremie,</hi> who by their pietie and prayers obtai<g ref="char:EOLhyphen"/>ned wonderfull deliuerances for the people. And doubtlesse the case of a Kingdome is despe<g ref="char:EOLhyphen"/>rate, when God will not spare it, neither for the prayers, nor for the presence of the iust that are in it: When God shall be so prouoked, as to protest,<note place="margin">
+                  <hi>Ier.</hi> 15.1.</note>
+               <hi>Though</hi> Moses <hi>and</hi> Samuel <hi>stood before mee, yet my minde could bee towards this people:</hi> And againe,<note place="margin">
+                  <hi>Ezech.</hi> 14.14.</note>
+               <hi>Though these three men,</hi> Noah, Daniel, <hi>and</hi> Iob, <hi>were in the Land, they should deli<g ref="char:EOLhyphen"/>uer neither sonnes nor daughters, they onely should be deliuered themselues;</hi>
+               <note place="margin">Eo indicans iu<g ref="char:EOLhyphen"/>storum precibus remedium &amp; sa<g ref="char:EOLhyphen"/>lutem peti, si quae salus impetrari &amp; obtinere pos<g ref="char:EOLhyphen"/>sit. <hi>Cartwright in Eccles. 9.26.</hi>
+               </note> then surely there is no hope of succour or safety for such a Land: howbeit the very protestation insinuateth thus much, that the presence and prayers of the righteous, if there be any place for mercie, will procure deliuerance and safety.</p>
+            <p>But me thinkes I find a kind of Solecisme in the Prophets speech, <hi>My father — The Horse<g ref="char:EOLhyphen"/>men of Israel!</hi> Why? how can one man bee horse-men.<note place="margin">Vnus vir, nullus vir.</note> Wee vse to say, that <hi>One man is no man;</hi> how then can one man bee many men? But as God seeth not as man seeth,<note place="margin">1. <hi>Sam.</hi> 16.7.</note> so he sayeth not as man sayeth. God speaketh of one god<g ref="char:EOLhyphen"/>ly man as of many men, yea, as of a million.
+<pb n="21" facs="tcp:2312:14"/> Whence wee may safely inferre and adde this position to the former; that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>5</label> One godly man is a strong garrison.</q>
+            </p>
+            <p>One truely zealous and religious Saint, is an army-royall. One <hi>Elijah,</hi> one <hi>Elisha</hi> is Horsemen and Chariot to all Israel. This one <hi>Elisha,</hi> afterward did more seruice then three armies could doe,<note place="margin">2. <hi>King.</hi> 3.</note> for hee saued three Kings, when all their chariots and horsemen could not helpe them. The King of Sodome, and fowre Kings his Confederates, could not saue themselues from <hi>Cadorloamer,</hi> and his three confederate Kings. But one faithfull <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> with his priuate family, could rescue fiue captiue Kings from fowre Kings that were con<g ref="char:EOLhyphen"/>querors. One <hi>Lot</hi> in a Citie, one <hi>Paul</hi> in a ship, one <hi>Iosias,</hi> one <hi>Ieremy</hi> in a whole Land or Coun<g ref="char:EOLhyphen"/>trey, are more worth for the safetie thereof, then ten thousand others.<note place="margin">
+                  <hi>Eccles.</hi> 9.14, 15.</note>
+               <hi>One poore wise man</hi> (faith <hi>Salomon) deliuereth a Citie by his wisedome:</hi> No maruell,<note place="margin">2. <hi>Sam.</hi> 20.16.</note> seeing one wise woman saued a whole Citie, in bickrings of <hi>Sheba</hi> the sonne of <hi>Bichri.</hi> All <hi>Labans</hi> family fared the better for one <hi>Iacob:</hi> all <hi>Pharaohs</hi> Court and Kingdome for one <hi>Io<g ref="char:EOLhyphen"/>seph.</hi> The reason is pregnant, God is impor<g ref="char:EOLhyphen"/>tuned by the prayers of one <hi>Moses,</hi> accep<g ref="char:EOLhyphen"/>teth the sacrifices of one <hi>Samuell,</hi> heareth the request of one <hi>Abraham,</hi> and for his sake healeth <hi>Abimelech</hi> and all his houshold. And it will followe by the rule of contraries, God often punisheth many, for the sinne of
+<pb n="22" facs="tcp:2312:15"/> one euill man:<note place="margin">Per paucos mala aerumnae{que} ad vniuersum po<g ref="char:EOLhyphen"/>pulum saepè per<g ref="char:EOLhyphen"/>ueniunt, &amp; vnius <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bnoxam tota quand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>{que} gens euertitur. <hi>Basil. ser. 3. in diuit. auar.</hi>
+               </note> One <hi>Achan</hi> committeth Sa<g ref="char:EOLhyphen"/>criledge, and the whole Army is put to flight. Now Gods Mercy is at least equiualent vnto his Iustice; he is as prone to spare as to smite: and if he smite many for one sinner, he will also spare many sinners for one Saint. He tels vs so much by his<note n="*" place="margin">Isai. <hi>65.8.</hi> Igitur propter vnum acinum totus racemus imò magis tota vinea diuinam est prouidentiam consequuta. <hi>Ba<g ref="char:EOLhyphen"/>sil. in Psal. 82.</hi>
+               </note> Prophet, <hi>That for one good Grape, the whole Cluster, yea the whole Vineyard shall be fenced and preserued.</hi> Who can now deny or doubt, but that the godly are the Horsemen and Chariots, the chiefest safetie of a Countrey; seeing that one Saint many times is the safegard and bulwarke of the whole Kingdome?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> Why then should not the godly be most e<g ref="char:EOLhyphen"/>steemed by vs, who procure such blessings vnto vs? Why should we not hold them most sweet, by whom we are most eased? Why should they not be most honored in a Land, by whom a Land is most happy? Why should we not beare them the best Affection, who affoord vs the best Protection? Euen our Beasts which are helpefull to vs, we are carefull to keepe, and loth to loose; how beastly shall we be, if we be<g ref="char:EOLhyphen"/>come brutish towards men, holy, heauenly men, who are our best Benefactors? Trees, whose Fruit is pleasant and profitable to vs, are carefully kept and preserued by vs: How ought we then to esteeme those Trees planted by the Waters side, vnder whose Branches we sit as in Bowers; who not only prosper them<g ref="char:EOLhyphen"/>selues,
+<pb n="23" facs="tcp:2312:15"/> but are prosperous and propitious vnto vs? But oh, the miserie of this Age, and the mad<g ref="char:EOLhyphen"/>nesse of the men of this Age. None worse en<g ref="char:EOLhyphen"/>tertayned on Earth, then the Saints, who are the best maintayners of the Earth; none more hated among vs then those who are most helpe<g ref="char:EOLhyphen"/>full vnto vs. How doe we entertayne our Horse<g ref="char:EOLhyphen"/>men and Chariots, for the most part, but as the Boores in the Low-Countries doe the Soul<g ref="char:EOLhyphen"/>diers? They cannot abide them, and yet they cannot be safe without them. Or as <hi>Nabal</hi> vsed <hi>Dauid,</hi> who had beene a wall to him and his, and yet could not get so much as a good word of him. Against whom doe men shoot the ve<g ref="char:EOLhyphen"/>nemous arrowes of malice more fiercely, then against those, who turne the fiercenesse of Gods wrath from them? Against whom doe they more maliciously enkindle the coales of slander, then against those, who with their teares doe quench the coales of Gods anger? Of whom doe they speake more spitefull words, then of those, who plead continually for them in their prayers? How are our dayes degenerated from those of old? Once none but godly men were honored, now almost none but they are despised: Once they were honored by Kings, now they are vi<g ref="char:EOLhyphen"/>lipended by Pesants. Once they were stiled the Fathers, the Chariots of a Kingdome, now they are accounted pestilent fellowes, troublers of Israel, Peruerters and Subuerters of the State.</p>
+            <pb n="24" facs="tcp:2312:16"/>
+            <p>What doe men meane? are they wearie of their safetie? doe they ake to bee shaued of their strength, as <hi>Samson</hi> was, or shipped of their Ie<g ref="char:EOLhyphen"/>wels as the Israelites were, and to lye open to the shame and Swords of their Enemies? Know they not that these are the brazen walls of the World, whom the World so much disdayneth? By their Prayers, they open and shut the win<g ref="char:EOLhyphen"/>dowes of Heauen: By their Faith, they remoue the Mountaynes of Gods Iudgements, and cast them into the bottomlesse Sea of his Mercie. By their innocencie, they cause fruitful Seasons, and for their sakes, the Clouds drop downe fatnesse vpon vs. These are they that driue away plague, death, and desolation out of our Coasts: These are they that keepe the Eye of the Almightie on vs, his Eare open to vs, his Face propitious towards vs. For as our Prophet once protested, that <hi>he would not so much as haue looked on</hi> Ieho<g ref="char:EOLhyphen"/>ram <hi>the wicked sonne of a worse father,</hi>
+               <note place="margin">2. <hi>King.</hi> 3.14.</note>
+               <hi>had it not been for good</hi> Iehosaphat <hi>that was with him;</hi> so the Lord would disdayne to let fal one graci<g ref="char:EOLhyphen"/>ous looke on this vngracious world, were it not for the Saints that do sojourne in it: for assoone as their number is compleate, presently the An<g ref="char:EOLhyphen"/>gell shall sound the last and great Trumpet, and the fatall Fire shall enter to make an end of this wicked World. O then, let vs not be so vnkind as to requite euill for good, nor so foolish as to hinder our good by such ill requitall, nor so frantike as to ouer-turne our former good, and
+<pb n="25" facs="tcp:2312:16"/> to turne it into euill. Take heed, lest by exaspe<g ref="char:EOLhyphen"/>rating them (for too many iniuries will anger a Saint) we turne the edge of their prayers against our selues, and so make our owne Horse-men to runne against vs; our owne Chariot wheeles to runne ouer vs. It is a fearefull thing, when <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> who vsed to pray for <hi>Saul,</hi> shall be enfor<g ref="char:EOLhyphen"/>ced to pray against <hi>Saul;</hi> and when <hi>Ieremie,</hi> who vsed to plead for the People, shall now be vrged to accuse the people,<note place="margin">
+                  <hi>Ier.</hi> 18.20.</note>
+               <hi>They haue digged a Pit for my soule: Remember that I stood before thee to speake good for them.</hi> When noble <hi>Ne<g ref="char:EOLhyphen"/>hemia's</hi> shall bee compelled to exhibite such a complaint vnto God. <hi>Heare, O our God,</hi>
+               <note place="margin">
+                  <hi>Nehem.</hi> 4.4.</note>
+               <hi>for wee are despised, and turne their reproch vpon their owne head!</hi> Sure, the same eare of jelousie, who so often receiued their prayers for vs, will also bee open to their complaints against vs. Sure if we once turne them against vs, they will soone turne God against vs, and, If God be against vs, who shall be with vs? or, if all the World be on our side, what will that helpe vs when the Ma<g ref="char:EOLhyphen"/>ker of the World is against vs? If then we re<g ref="char:EOLhyphen"/>gard not the pleasure which they doe vs, let vs yet feare the displeasure that they may doe vs; for (as one of them hath said) <hi>A man were better anger all the Witches in the world then one of them.</hi>
+               <note place="margin">
+                  <hi>S. W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd.</hi> Ser. of Zeale.</note>
+            </p>
+            <p>Obserue moreouer the passion of the Pro<g ref="char:EOLhyphen"/>phet, how pathetically he crieth out at the par<g ref="char:EOLhyphen"/>ture of his Master, his Father, as if all Israel,
+<pb n="26" facs="tcp:2312:17"/> Church, and Common-wealth, in the losse of one <hi>Elijah</hi> had beene vtterly ouerthrowne and vndone. This his passion affordeth vnto vs this Position, that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>6</label> The losse of godly men is most lamentable.</q>
+            </p>
+            <p>They must needs be bad men, who are not sad<g ref="char:EOLhyphen"/>ly affected at the death of good men. Hee is no true Patriot that can heare of the losse of the Nauie Royall by Sea, or of the Armie by Land, and is not wounded at the report. They will ne<g ref="char:EOLhyphen"/>uer themselues proue the Horse-men of Israel, as <hi>Elisha</hi> did, who are not sorrowfull for the losse of the Horse-men and Chariots thereof, as <hi>Elisha</hi> was. They who are so profitable to vs while we enioy them, how can it choose but be grieuous to vs when we are depriued of them? Godly men as while they liue, they are to bee honoured, so at their death they are to bee de<g ref="char:EOLhyphen"/>plored. How can it bee that their death should not bee lamentable to vs, whose life is so profi<g ref="char:EOLhyphen"/>table to vs?<note place="margin">Doctor Halls <hi>Contemplat.</hi>
+               </note>
+               <hi>A good man</hi> (saith a good man) <hi>is a common treasure, wherein euery soule hath a share. That man hath a drie heart that can heare of such a publike detriment without teares.</hi> IEREMIE lamenteth the desolation of <hi>Iudah,</hi> by the losse of good <hi>Iosiah.</hi>
+               <note place="margin">2. <hi>King.</hi> 3.14.</note>
+               <hi>Ioash</hi> a King, lamenteth the losse of all <hi>Israel</hi> in <hi>Elisha,</hi> a Subiect, but a Pro<g ref="char:EOLhyphen"/>phet.<note place="margin">
+                  <hi>Isai.</hi> 57.1.</note> God himselfe, by his Prophet <hi>Isay,</hi> takes notice of this, as a mayne sinne of the Land, when such men are taken away, and yet the Land (for whose sinnes they are taken away)
+<pb n="27" facs="tcp:2312:17"/> is insensible of the stroke: And great reason, why such mens death should bee very lamen<g ref="char:EOLunhyphen"/>table. For first, a great benefit ceaseth, and next a great euill commonly ensueth. There is first in their losse a great good or blessing remoued: as <hi>Eli</hi> his daughter in law, <hi>Phineas</hi> his wife, hearing that the Arke of God was taken, and her Father in law, and Hushand were dead, cryed out, <hi>The glorie is departed from Israel.</hi>
+               <note place="margin">1. <hi>Sam.</hi> 4.19.21.</note> Se<g ref="char:EOLhyphen"/>condly, some great euill or iudgement is likely to ensue:<note place="margin">
+                  <hi>Isai.</hi> 57.1.</note> Therefore the Prophet saith that <hi>the mercifull men are taken away—from the euill to come.</hi> Therefore looke for some fearefull euill to come, shortly after the remouall of such men. Their departure is but the fore-runner of some dismall disaster.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> Yet for all this, there is in the World a gene<g ref="char:EOLhyphen"/>ration of Vipers, who thinke they cannot liue without the death of their Parents. Such are they who reioyce at the death of godly men, more then some Fathers doe at the birth of a Sonne. These men suppose (belike) that a Land may haue too much of Gods blessing, that the Kingdome may bee too strong, and haue too many Chariots and Horse-men. But I leaue these cankars at this time, and hasten to my last obseruation, which is this, that <hi>Elisha</hi> commen<g ref="char:EOLhyphen"/>deth aswell as complayneth, and giueth <hi>Elijah</hi> his due praise at parting; for what could bee more said in his commendation then this, that while hee liued, he was the Chariot and Horse-men
+<pb n="28" facs="tcp:2312:18"/> of a whole Nation? Whence wee may safely inferre, that
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>7</label> They who haue well liued, may and ought to be praysed, when they are departed.</q>
+            </p>
+            <p>It is not onely lawfull, but needfull, to giue the Dead that due prayse which they deserued while they liued. Commendation at and after Death, is a Tribute belonging to a vertuous and godly life. The practice of the Holy Ghost herein,<note place="margin">
+                  <hi>Deut.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.10. 2. <hi>King.</hi> 18.2.</note> is a sufficient warrant. <hi>Moses</hi> hath his due prayse after his Death; so hath <hi>Hezekias. Dauid</hi> not onely lamenteth,<note place="margin">2. <hi>Sam.</hi> 1.22, 23.</note> but prayseth <hi>Saul</hi> and <hi>Ionathan.</hi> What can bee more said of a man,<note place="margin">2. <hi>King.</hi> 23.25.</note> then the Spirit doth of <hi>Iosias? Like vnto him there was no King.</hi> Generally obserue it, seldome doth the Scripture bury any person of excellence in silence, nor layeth the godly in his Graue, without an Epitaph of honour and approbation. God is hereby glorified. God, who is praysed by his Saints, is also praysed in his Saints; and he who prayseth the Saints of God, prayseth God in his Saints: What<g ref="char:EOLhyphen"/>soeuer we admire in them, we ascribe it vnto him,<note place="margin">—Quia quicquid in his miramur ab illo est. <hi>Paulinus.</hi>
+               </note> who instilled it into them. All their ver<g ref="char:EOLhyphen"/>tue and goodnesse is but a drop of his Ocean, a sparke of his Flame, a Beame of that Sunne. He who prayseth the Beames, doth much more prayse the Sunne: He who prayseth the Streames, doth much more prayse the Foun<g ref="char:EOLhyphen"/>taine: He who prayseth the Saints, doth much more prayse their Sanctifier, their Sauiour.
+<pb n="29" facs="tcp:2312:18"/> Thirdly, the liuing are hereby edified and pro<g ref="char:EOLhyphen"/>fited. True it is, that the Saints departed doe not need the prayses of the liuing; but it is as true, that the liuing doe need their prayses: In praysing them,<note place="margin">Quò eis terreni honores quos iuxta veracem filij promissio<g ref="char:EOLhyphen"/>nem honorifica<g ref="char:EOLhyphen"/>uit pater coele<g ref="char:EOLhyphen"/>stis? Quò eis praeconia nostra? pleni, sunt. —Planè quòd eorum memori<g ref="char:EOLhyphen"/>am veneramur nostrâ interest non ipsorum. <hi>Ber. in Fest. omn. Sanct. ser. 5.</hi> Quemadmodum ex igne naturali<g ref="char:EOLhyphen"/>ter splendor, ex vnguenio item praestanti diffun<g ref="char:EOLhyphen"/>ditur <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dor, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c è sanctorum c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>memoratione gestorum ad <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>nes prouenit vti<g ref="char:EOLhyphen"/>litas. <hi>Basil. Ser. in Gord. Martyr. Tom. 2.</hi>
+               </note> we doe not profit them <hi>(For what doe they need glory on Earth, whom, accor<g ref="char:EOLhyphen"/>ding to the promise of the Sonne, the Father hath glorified in Heauen?)</hi> but yet their prayse is profitable vnto vs, for we are thereby bette<g ref="char:EOLhyphen"/>red and benefited. <hi>As Light and Splendour shineth to many from one Fire, and many are perfumed by the sweet Odour of one Ointment; so from the Commendation of one Saint, and true commemoration of his graces, many, yea all who heare it, doe (or may) attract sweet profit and comfort.</hi>
+            </p>
+            <p>A three-fold desire, or emulation, is either begotten or nourished in vs, when we heare their prayses.</p>
+            <list>
+               <item>1. <hi>To liue like them.</hi>
+               </item>
+               <item>2. <hi>To die like them.</hi>
+               </item>
+               <item>3. <hi>To be with them, that we may see them.</hi>
+               </item>
+            </list>
+            <p>For the first: He who heareth others pray<g ref="char:EOLhyphen"/>sed for their vertues, studieth to bee vertuous likewise, that hee may bee likewise praysed. Euen silent Pictures are no small incentiues to the beholders; how much more are spea<g ref="char:EOLhyphen"/>king prayses great motiues to the hearers? The Trophies of <hi>Miltiades</hi> did breake the sleepe of <hi>Themistocles; Alexander</hi> the Great
+<pb n="30" facs="tcp:2312:19"/> was incited by the prayses of <hi>Achilles;</hi>
+               <note place="margin">S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eton. in Iu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o, c. <hi>7.</hi>
+               </note>
+               <hi>Iu<g ref="char:EOLhyphen"/>lius Caesar,</hi> by the example of <hi>Alexander.</hi> The holy Virgin her selfe reioyced to thinke on it, that all Generations should call her Blessed.</p>
+            <p>Besides, the praysing of Saints at their Death, ingenerateth a desire to bee like them in Death. Euen <hi>Balaam,</hi> who cared not to liue the Life of the Righteous, yet desired to die the Death of the Righteous. And what is hee (vnlesse hee bee desperately debaucht) who hearing of the laudible Life, and com<g ref="char:EOLhyphen"/>fortable departure of a Saint, is not readie to sigh out that Wish;
+<q>
+                  <l>
+                     <note place="margin">Sic mihi contin<g ref="char:EOLhyphen"/>gat viuere, sic{que} mori.</note>O that it might betide to me,</l>
+                  <l>Euen so to liue, and so to die?</l>
+               </q>
+            </p>
+            <p>And as to liue like them, and to die like them, so to be with them, and to see them af<g ref="char:EOLhyphen"/>ter Death.</p>
+            <p>Were there none other Ioyes in Heauen then this; The sight and societie of so ma<g ref="char:EOLhyphen"/>ny Saints, of whom wee haue heard so ma<g ref="char:EOLhyphen"/>ny excellent things: This were sufficient to make vs loathe the Earth, and long to be in Heauen; that so wee may sing,<note n="*" place="margin">
+                  <hi>Psal.</hi> 48.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>As wee haue heard, so haue wee seene:</hi>
+               <note n="a" place="margin">Et cogitare de sanctis quodam<g ref="char:EOLhyphen"/>modo eos videre est. <hi>Ber. vbi supra.</hi> Singulorum qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppe recorda<g ref="char:EOLhyphen"/>tiones quasi scin<g ref="char:EOLhyphen"/>tillae singulae, imò quafi ardentissi<g ref="char:EOLhyphen"/>me faces deuot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s accendunt an mos, &amp;c. <hi>id est ibid.</hi>
+               </note>
+               <hi>Euen to thinke of the Saints</hi> (sayth a Saint) <hi>is in a manner to be with them.</hi> Then doe wee most desire to see them, when wee heare the best of them.</p>
+            <pb n="31" facs="tcp:2312:19"/>
+            <p>
+               <note n="b" place="margin">Honor in bo<g ref="char:EOLhyphen"/>nos à conseruis collatu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beneuo<g ref="char:EOLhyphen"/>lentiae significa<g ref="char:EOLhyphen"/>tionem apud communem Do<g ref="char:EOLhyphen"/>minum habet, &amp;c. <hi>Basil. in 40. Martyr.</hi>
+               </note>Lastly, our dutie is hereby discharged, and our selues acquitted from suspicion of Enuie, when we giue praise, where it is due. Yea, it is a signe that men are praise-worthie themselues, when they are readie to yeeld the worthie their due praises. And God doth grace such offici<g ref="char:EOLhyphen"/>ousnesse commonly with the like recompence. The commendation which here <hi>Elisha</hi> giueth to <hi>Elijah,</hi> is afterward returned to him with ad<g ref="char:EOLhyphen"/>uantage.<note n="c" place="margin">
+                  <hi>2.</hi> King. <hi>13.14.</hi> Ab altero expe<g ref="char:EOLhyphen"/>ctes alteri quod feceris.</note> Hee thus praised <hi>Elias</hi> when hee was departed, but he had, and heard the same praise while he liued: <hi>Elias</hi> receiued this praise from him, a priuate person; but he receiued the same from <hi>Ioash</hi> a King. Thus shall they bee honoured themselues that honour the honou<g ref="char:EOLhyphen"/>rable: God shall cause their praises to be payd them againe with interest. So lawfull, so profi<g ref="char:EOLhyphen"/>table, so commendable is it to giue the godly their due commendation.</p>
+            <p>And this is best done after their decease:<note n="d" place="margin">—Sed scillicet vltima semper expectanda dies hom ni est—&amp;c. <hi>Ouid. Metam.</hi>
+               </note> The best praising is at parting, as here <hi>Elisha</hi> doth by <hi>Elias:</hi>
+               <note n="f" place="margin">Quamdiu quis subiacet muta<g ref="char:EOLhyphen"/>tioni non potest cum securitate laudari—quia tunc stabilis &amp; firma laus est, quando meri<g ref="char:EOLhyphen"/>tum non poterit iam per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lau<g ref="char:EOLhyphen"/>dati. <hi>Salu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an. ad Eccl. l. 4. &amp; vid. Ambr. de bo<g ref="char:EOLhyphen"/>no mortis. c. 8.</hi>
+               </note> for then is praise freest from suspicion of flattery, none supposed to bee so base as to fawne vpon the Dead:<note n="e" place="margin">Ne laudaueris hominem in vitâ <hi>Ecclus. 11.28.</hi> Nos in vitâ suâ laud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re homi<g ref="char:EOLhyphen"/>nem perhibemur. Quomodo n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>que secura lau<g ref="char:EOLhyphen"/>datio, vbi nec ipsa vita secura? <hi>Bern. in fest. om. fanct. ser. 5.</hi>
+               </note> Also then wee are sure that wee praise a man safely, when wee are sure that he is in safetie: <hi>for how can praise be safe here, where life it selfe is not safe? While a man is subiect to mutabilitie hee, cannot be praised with securitie,</hi> sayth Saluian; <hi>But then is praised firme and stedfast, when the desert of the praised cannot perish, nor be lost.</hi> Then may
+<pb n="32" facs="tcp:2312:20"/> we say, that a Ship hath made a good voyage, when we see her safely arriued at the harbour;<note n="g" place="margin">Non corona<g ref="char:EOLhyphen"/>bi ur nisi legiti<g ref="char:EOLhyphen"/>mè certaue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it, <hi>(ait Tuba illa coelestis, 2. Tim. 2.)</hi> &amp; legem certa<g ref="char:EOLhyphen"/>minis ab ore Le<g ref="char:EOLhyphen"/>gislatorus auscul<g ref="char:EOLhyphen"/>ta; Qui perse<g ref="char:EOLhyphen"/>uerauèrit vsque ad finem, saluus erit. Nescis quis sit perseueratu<g ref="char:EOLhyphen"/>rus, &amp;c. Illo<g ref="char:EOLhyphen"/>rum lauda <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tutem quorum iam certa victo<g ref="char:EOLhyphen"/>ria est, &amp;c. <hi>Bern. vbi supra.</hi>
+               </note> It is the Euening that crownes the Day, and the Victorie that carrieth away the Crowne.<note n="h" place="margin">Basil. in epi<g ref="char:EOLhyphen"/>stolis, Tom. 2.</note> Saint <hi>Basil</hi> obserueth, how that Christ him<g ref="char:EOLhyphen"/>selfe would not be published, vntill such time as hee had suffered and was risen againe. Before his Passion, when hee had done a Miracle, hee gaue this charge, <hi>See you tell it no man;</hi> After his Resurrection, hee gaue the Commission, <hi>Goe yee forth into all the world, &amp;c.</hi> To shew vs, that as he who continueth to the end shall be saued, so hee who is so saued, may safely bee praised.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>1</label> I am loath to dispraise the Liuing, while I speake of praising the Dead; yet so I must doe by some, else I cannot make right vse of this Doctrine, which warranteth vs to praise the Dead. For, by this warrant, three sorts of peo<g ref="char:EOLhyphen"/>ple are iustly touched, and taxed.</p>
+            <p>Those who condemne all Funerall-Sermons, or in them whatsoeuer is spoken in commen<g ref="char:EOLhyphen"/>dation of the deceased: vpon what ground, saue their owne fancie, I could neuer yet find. Sure I am, that in the one, they doe crosse at least, if not condemne, the practice of the Chri<g ref="char:EOLhyphen"/>stian Church ancient and moderne; in the o<g ref="char:EOLhyphen"/>ther, they would seeme to bee wiser then the holy Ghost himselfe. They would thinke it harsh to be compared to the Ape in the Fable, who would perswade all Beasts to make them<g ref="char:EOLhyphen"/>selues
+<pb n="33" facs="tcp:2312:20"/> bare, because he was so: and they would thinke it rash to say, that because they doe no<g ref="char:EOLhyphen"/>thing praise-worthie themselues, therefore they would haue others depriued of their due praise.</p>
+            <p>Others againe doe hit vpon the contrarie ex<g ref="char:EOLhyphen"/>treme, and are too exuberant, lading men with hyperbolicall praises. They studie more to ex<g ref="char:EOLhyphen"/>toll the Dead, then to edifie the Liuing, com<g ref="char:EOLhyphen"/>mending men, not for that which was in them, but for that which should haue beene in them.<note n="d" place="margin">Est istud qui<g ref="char:EOLhyphen"/>busdam studium in speciem qui<g ref="char:EOLhyphen"/>dem sanctum, sed tamen in ep<g ref="char:EOLhyphen"/>tum, Sanctorum laudes in im<g ref="char:EOLhyphen"/>mensum attol<g ref="char:EOLhyphen"/>lere, dum illis tribuant, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n quantum ad<g ref="char:EOLhyphen"/>fuit, sed quan<g ref="char:EOLhyphen"/>tum i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is, optent adfuisse. Hi Christum si que<g ref="char:EOLhyphen"/>ant, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iorem quam est cupi<g ref="char:EOLhyphen"/>unt reddere. <hi>Erasm. in vita D. Hieronym.</hi>
+               </note> Such obsequiousnesse, howsoeuer pious it may seeme in shew, it is indeed but peeuish; for such men (said a learned Man in his generation) if they could, would make Christ himselfe a better man then he is.</p>
+            <p>The last and worst sort are they, who not onely giue not the Dead their due praise, but detract from them their due, and insteed of af<g ref="char:EOLhyphen"/>fixing on them more then their owne, they nei<g ref="char:EOLhyphen"/>ther will themselues, nor suffer others to ascribe vnto them their owne. I haue heard of some, who haue snarled at the Preacher for giuing the Defunct his due praise, when yet for modesties sake, he hath giuen him lesse then his due. Thus enuie and basenesse cannot abide to heare that ascribed vnto others, which is wanting in them<g ref="char:EOLhyphen"/>selues. Thus doe Hares insult ouer dead Lyons: But God will make their memories to rotte, who wrong their memories whom he will haue to remaine in euerlasting remembrance.</p>
+            <pb n="32" facs="tcp:2312:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:2312:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:2312:22"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> I am wearie of striking this harsh string of reproofe, though no reproofe bee harsh e<g ref="char:EOLhyphen"/>nough for such: I doe more willingly descend to exhortation. Let men learne to deserue well while they liue, if they desire to be praised when they are dead. <hi>I will honour them that honour me, saith the Lord:</hi> The best praise is of God, not of man; all true praise is from Piety: let him therefore study to be gracious, who will be gra<g ref="char:EOLhyphen"/>ced; let him be pious, who will be praised: such shall haue praise not of man, but of God; yea, first of God,<note place="margin">Bern. ad Arton. Episcop. <hi>Epist. 23.</hi> Gal. <hi>2.</hi> Volo te talium praeconijs dele<g ref="char:EOLhyphen"/>ctari, qui tam ti<g ref="char:EOLhyphen"/>meant palpare vitia quam de<g ref="char:EOLhyphen"/>tractare virtu<g ref="char:EOLhyphen"/>tibus. Ʋeri sunt illi laudatores, qui ita bona lau<g ref="char:EOLhyphen"/>dare so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eant, vt lactare in malis non nouerint. <hi>Bern. ad Sug<g ref="char:EOLhyphen"/>ger. Abbat. E<g ref="char:EOLhyphen"/>pist. 8.</hi>
+               </note> and then of man. <hi>Safely may such bee praysed at their death, who in their life time could say with Paul, I liue, yet not I but Christ li<g ref="char:EOLhyphen"/>ueth in me. I would haue you pleased with the pray<g ref="char:EOLhyphen"/>ses of such men</hi> (saith <hi>Bernard</hi> to a friend of his) <hi>who feare as much to flatter vice, as to detract from vertue. They are true praisers, who vse so to praise men for their good, as that they knowe not how to sooth men in euill.</hi> Begged praise from flatteries, is no better then bought or borrowed teares from hired mourners. Such are verball pray<g ref="char:EOLhyphen"/>sers, but reall reproachers.</p>
+            <p>Gentlemen, I am sure, that you doe know, and I hope that you doe consider, that you shall once die. I presume also, that you desire to haue your Funerall graced with a Sermon, by some graue Preacher. I am sure, that your Executor will expect, that the Preacher speake something in your praise in his Sermon. Else, it may bee, hee shall bee rewarded as <hi>Simonides</hi> was by the
+<pb n="35" facs="tcp:2312:22"/> Champion,<note place="margin">
+                  <hi>Quintil. Insti<g ref="char:EOLhyphen"/>tut.</hi> l. 11. c. 2.</note> when hired to make Verses in praise of him, he praised <hi>Castor</hi> and <hi>Pollux,</hi> and when he should haue receiued his pay of him who hi<g ref="char:EOLhyphen"/>red him, he was turned ouer to be payed by <hi>Ca<g ref="char:EOLhyphen"/>stor</hi> and <hi>Pollux,</hi> whom he had praised. So shall the Preacher, though he praise God and profit the people neuer so much, by the Funerall Ser<g ref="char:EOLhyphen"/>mon, be turned off without pay, or payed with reproch, if hee praise not the Dead. But that is all one to vs, who make not merchandize of the Word of God;<note place="margin">2. <hi>Cor.</hi> 13.8.</note>
+               <hi>We can doe nothing against the Truth, but for the Truth,</hi> saith the Apostle. Will you haue vs praise you at your death?<note place="margin">
+                  <hi>1.</hi> Cor. <hi>4.5.</hi> Magnus lauda<g ref="char:EOLhyphen"/>tor, &amp; vehemen<g ref="char:EOLhyphen"/>ter: ambienda laudabo. <hi>Bern. in Fest. omn. Sanctor. Ser. 5.</hi> Isai. <hi>5.20.</hi> Psal. <hi>5.24.</hi> Quando qui om<g ref="char:EOLhyphen"/>nium Dominus praedicat ali<g ref="char:EOLhyphen"/>quem, ac bene<g ref="char:EOLhyphen"/>dicit, sublimior est omnibus qui talis est, etiamsi ab omnibus vitu<g ref="char:EOLhyphen"/>peretur: quem<g ref="char:EOLhyphen"/>admodum &amp; è contrarie si ipse non laudauerit; nihil profuerit etiamsi omnes depraedicent. <hi>Basil. in Psal. 5.24. tom. 3.</hi>
+               </note> Doe that which is praise-worthy while you liue. Get you first the praise of God; <hi>A great prayser</hi> (saith Bernard) <hi>and a prayse greatly to be desired, to bee praysed by the greatest.</hi> Let God prayse you, and we will not be sparing in your prayses. Doe that while you liue, that wee may boldly and safely report of you at your Funeral. Otherwise know that your Houses full of gold and siluer shall not hire vs (except you can find out among vs, one as bad or worse then <hi>Balaam</hi>) either to curse where God blesseth, or to blesse where God cur<g ref="char:EOLhyphen"/>seth; and so to lay our selues open to that feare<g ref="char:EOLhyphen"/>full imprecation, <hi>Woe be vnto them that call good euill or euill good.</hi> But <hi>thou, O Lord, wilt blesse the righteous, thou wilt compasse him with fauour as with a shield:</hi> Vpon which words of the Pro<g ref="char:EOLhyphen"/>phet, blessed <hi>Basil</hi> aptly inferreth thus; <hi>When he who is Lord of all men, blesseth and honoureth any
+<pb n="36" facs="tcp:2312:23"/> man, such a man is aduanced aboue all men, yea, though hee bee blamed and reproched by all men: Whereas on the contrarie, if the Lord prayse not a man, it will nothing profit him though all mens mouthes be filled with his commendations.</hi> Thus to be loued while you liue, and to be lamented and praysed at your death, is a great blissing, and greatly to be desired: if you desire it, you must endeuour to deserue it, deserue it you may (right Worshipfull) if liuing, you bee carefull to bee such as <hi>Elias</hi> and <hi>Elisha</hi> were.</p>
+            <p>
+               <hi>The Chariots of Israel, and the Horse-men thereof.</hi>
+            </p>
+            <p>Not such Chariots as were vsed in the Olym<g ref="char:EOLhyphen"/>pick games; for race onely and for sport, which raise a dust and keepe a ratling, but are neither for defence of the Countrey, nor offence of the Enemie. Nor yet hooked Chariots (such a <hi>An<g ref="char:EOLhyphen"/>tiochus</hi> and <hi>Mithridates</hi> vsed) running on the wheeles of your priuate ends, labouring to hooke all commodities into your owne hands; or being (as <hi>Vegetius</hi> saith,<note place="margin">
+                  <hi>Vegetius de re militar.</hi> l. 3. c. 24.</note> those hooked Cha<g ref="char:EOLhyphen"/>riots were) at your first entring a terrour by exe<g ref="char:EOLhyphen"/>cuting iustice, but afterward a derision, by too much remissenesse. Least of all such Chariots as we reade of,<note place="margin">
+                  <hi>Isai.</hi> 21.7.</note>
+               <hi>Isay. A Chariot of Asses, and a Cha<g ref="char:EOLhyphen"/>riot of Camels.</hi> And as you must be good Cha<g ref="char:EOLhyphen"/>riots, so you must be good Horse-men too: not such feeble Horse-men as young <hi>Phaeton,</hi> who could not guide his Horses,<note place="margin">Fertur equis auriga—<hi>Virgil.</hi>
+               </note> but was haled by them; not suffering your Horses, your seruants
+<pb n="37" facs="tcp:2312:23"/> to guide, or rather ride you at their pleasures. Nor yet such light Horse-men as are fit for no<g ref="char:EOLhyphen"/>thing, but for Spies or Scouts,<note place="margin">Equites leuieris armaturae a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<g ref="char:EOLhyphen"/>gendas praedas, ad exploranda castra, &amp;c.</note> and to driue a<g ref="char:EOLhyphen"/>way the prey; such as can gallop, yea, flie on winged <hi>Pegasus</hi> for preferment; slow-paced as Snailes to doe Church or Common-wealth any seruice (as <hi>Bernard</hi> complayned of some in his time) flie Boates for their owne profit,<note place="margin">Ad sua strenui ad communia pigri, <hi>Bern.</hi>
+               </note> very Sluggs for the Republique. But you must be <hi>E<g ref="char:EOLhyphen"/>quites Cataphrasti,</hi> horse-men armed at al points, for the seruice of God and your Countrie. Hap<g ref="char:EOLhyphen"/>pie those Countries who haue such Chariots and Horse-men, as <hi>Elijah</hi> and <hi>Elisha</hi> were to Is<g ref="char:EOLhyphen"/>rael. These driue away more dangers then our Fleet did in eightie eight; and import more commodities, then euer the Carricks or the East Indian Aduenturers, brought into the Land. Worthies, you must be carefull to be such Cha<g ref="char:EOLhyphen"/>riots as <hi>Elijah</hi> was; if euer you meane to mount vp into Heauen, in the fierie Chariot of Faith and a good Conscience, as <hi>Elijah</hi> did.</p>
+            <p>Time, and your expectation, summoneth me to the sad occasion of this dayes sorrowfull so<g ref="char:EOLhyphen"/>lemnitie. But at which part of my Text shall I begin? Whether at the Exclamation or at the Acclamation? Whether with complayning or commending? Shall I first lament my priuate losse, or deplore the publike calamitie, in the parture (I may say rapture) of <hi>Elias</hi> from vs. Me thinks I could here stand with <hi>Elisha,</hi> not a whole houre, but a whole day, astonished, ama<g ref="char:EOLhyphen"/>zed,
+<pb n="38" facs="tcp:2312:24"/> crying, complayning, <hi>My Father, my Fa<g ref="char:EOLunhyphen"/>ther:</hi> Euer since hee made choice of mee freely vnto this place, to bee vnto him by function a Father, he hath beene vnto me in loue and affe<g ref="char:EOLhyphen"/>ction, not so much a Patron as a Father. Pardon me therefore, if I seeme somewhat exuberant in complayning or commending: it is not my cu<g ref="char:EOLhyphen"/>stome; but I neuer spake at the Funerall of a Father (such a Father) before; if any man shall tax mine officiousnesse, I intreat him to suspend his censure, vntill such time as he himselfe haue forgone a Father, and such a Father, as I (I may say as we) haue done.</p>
+            <p>If I should attempt to open the treasurie of his vertues, and acquaint you with the particu<g ref="char:EOLhyphen"/>lars, the taske would be too tedious, and some might hold it superfluous. A godly life that hath beene weauing a piece of sundrie seuerall Ver<g ref="char:EOLhyphen"/>tues, some threescore yeeres and aboue, cannot haue a due and equall commemoration in a few minutes: Besides, hee was a Candle set on a Candle-sticke, a Citie built on a Hill, he stood in place of view and eminence, and therefore his actions cannot bee hidden; and (as one saith) <hi>It is a superuacuous seruice to commend the con<g ref="char:EOLhyphen"/>spicuous.</hi>
+               <note place="margin">
+                  <hi>Superuacanei laboris est com<g ref="char:EOLhyphen"/>mendare conspi<g ref="char:EOLhyphen"/>cuos.</hi> Symmach. l. 3. Ep. 48.</note>
+            </p>
+            <p>Yet for their sakes who knew him not, or not so well as my selfe, or knew him, but forget to follow him; I will single out some of his Ver<g ref="char:EOLhyphen"/>tues, and present them to your memorie and practice. Herein I will vse such choice, that
+<pb n="39" facs="tcp:2312:24"/> you may see I ayme at breuitie; and yet so af<g ref="char:EOLhyphen"/>fect breuitie, that I defraud not the dead of his due, nor God of his glory; leauing much vn<g ref="char:EOLhyphen"/>spoken, and speaking that which may bee of most especiall vse and example.</p>
+            <p>The principall Graces which I offer to your Consideration, I doe referre to these three Heads:</p>
+            <p>His
+<list>
+                  <item>
+                     <hi>Pietie.</hi>
+                  </item>
+                  <item>
+                     <hi>Equitie.</hi>
+                  </item>
+                  <item>
+                     <hi>Charitie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The first, will declare him as a Christian; the second, as a Magistrate; the third, as a Man: The former will shew his deportment towards God; the second, his carriage in the place of Iustice; the third, how hee behaued himselfe towards all men.</p>
+            <p>Concerning his Pietie, you may be pleased to take a view thereof, according to his publike and priuate Exercises therein. For the pub<g ref="char:EOLhyphen"/>like; he was a constant hearer of Gods Word, a due attendant in the Courts of Gods House, and (according to the Hebrewes adage) hee accounted those Garments most gay, that were soyled with the dust of the Temple. His time<g ref="char:EOLhyphen"/>ly repayre thither, shewed his zeale for that which was to be performed there; being more early at the Church, then many of his inferi<g ref="char:EOLhyphen"/>ors in age and place (and these neerer vnto the Church) were out of their Chambers.
+<pb n="40" facs="tcp:2312:25"/> This course hee held euen in his old age: Di<g ref="char:EOLhyphen"/>stance of place, distemper of Weather could not with-hold him; but hee aduentured the health of his Body for the food of his Soule. And this appeared in his last approch to the Saturday<note n="*" place="margin">At <hi>Saltash.</hi>
+               </note> Lecture, so farre distant from his Dwelling, in a cold frostie Morning, and that by Boat: The fire of his Zeale making him to contemne the coldnesse of the Water and of the Weather; where it is very probable, that his last Sicknesse first saluted him. What should I speake of his comely and Christian gesture in the Temple? where hee remayned as in the Chamber of Presence, and in the eye of the Heauenly King, and his holy Angels. This, this, is a sure signe of a Saint, to hunger and thirst after the Word of Life; and hauing once tasted that Manna, to say, <hi>Lord euermore giue vs this Bread.</hi>
+            </p>
+            <p>And as he loued the Foode, so he loued the Feeders; as he embraced the Message, so he entertained the Messengers: louing the Mini<g ref="char:EOLhyphen"/>sters, for their Ministerie; hauing the Labou<g ref="char:EOLhyphen"/>rers <hi>in especiall honour,</hi>
+               <note place="margin">1. <hi>Thess.</hi> 5.13.</note>
+               <hi>for their Workes sake.</hi> If they were painefull and conscionable in their Calling, he highly regarded them, how plaine or meane soeuer their persons were to the Worlds appearance. How acceptable to him were the feet of those, who brought the glad Tidings of Peace? From Scotland, Ireland, and the Netherlands, haue they come, that
+<pb n="41" facs="tcp:2312:25"/> haue dranke plentifully of his fauour and boun<g ref="char:EOLhyphen"/>tie. Therefore not I alone, but many of my Brethren may say with me, <hi>Alas my Father!</hi> especially in this cold Age, wherein <hi>Ieremies</hi> Lamentation may well bee taken vp by vs; <hi>They respect not the Priest,</hi>
+               <note place="margin">
+                  <hi>Lament.</hi> 4.16.</note>
+               <hi>they fauour not the Elders.</hi>
+            </p>
+            <p>In his priuate Pietie, wee will note especially the continuall Diet which hee kept for his Soule: for generally hee gaue Meales of Pray<g ref="char:EOLhyphen"/>er, Reading, and Meditation vnto it, as hee did vnto his Body. Morning and Euening at least, with <hi>Dauid,</hi> hee prayed vnto the Lord. In his Chamber quietly hee examined himselfe, and communed with his owne heart, that he might stand in awe, and not sinne. That part of the Sabbath day, which hee spent in his owne House, hee employed in Reading, and in me<g ref="char:EOLhyphen"/>ditating on that which was taught in the Tem<g ref="char:EOLhyphen"/>ple; writing downe in a Booke such Notes, as most neerely concerned his owne Soule and Conscience. This Booke was found in his Studie after his Death; in which also, was con<g ref="char:EOLhyphen"/>tained a Diarie of his Life, for sundry yeares before his Death; obseruing and registring therein, for his owne remembrance and vse, what Temptations hee had sustained, how hee had resisted them; what Combates and Com<g ref="char:EOLhyphen"/>forts hee had found, what Fauours and Bles<g ref="char:EOLhyphen"/>sings, Temporall and Spirituall, hee had recei<g ref="char:EOLhyphen"/>ued of God. Hee hardly left any godly Booke
+<pb n="42" facs="tcp:2312:26"/> out of his hands, in which hee found Spiritu<g ref="char:EOLhyphen"/>all comfort. Hee read ouer at least seuen times that godly Worke of that worthy man of God, M. <hi>Rogers,</hi> wherewith hee was greatly affected, and out of it hee extracted sundry Obseruati<g ref="char:EOLhyphen"/>ons, for his priuate vse. Certaine Houres of euery day hee diuided from the World, and apart by himselfe conferred with God. A most excellent and Diuine practice, to sequester some Houres for Meditation; that looking into the Glasse of Gods Law, and thereby washing away the spots of our Life from the face of our Soule, wee may with more comfort and courage approach vnto Gods Presence, and exhibite vnto him our humble Petitions.</p>
+            <p>Hitherto I referre another exemplarie Ver<g ref="char:EOLhyphen"/>tue, and may well insert it among his priuate Exercises of Pietie: A carefull and religious Care for the education of his Children; hee desired, that his Children might also bee the Children of God. For this cause, hee sought out such Teachers for them, as were commen<g ref="char:EOLhyphen"/>ded for Religion, no lesse then for Learning; and to such hee sent them, farre from home, when as some of them were yet very young; sparing no cost for their breeding in the most eminent places of the Land, in the Vniuer<g ref="char:EOLhyphen"/>sities and Innes of Court, that they might like himselfe proue profitable to Church and Com<g ref="char:EOLhyphen"/>monwealth. And to ballace their knowledge by Iudgement, and to advance iudgement by expe<g ref="char:EOLhyphen"/>rience,
+<pb n="43" facs="tcp:2312:26"/> and to purchase experience by trauell, he sent the most of them into forraine Countries, alway making choice of such places for their trauell, whence they might returne home free from the tainture of irreligion and superstition. Neither did he, as some Parents doe, demolish himselfe, what he builded by others, and by e<g ref="char:EOLhyphen"/>uill example at home, obliterate the good which they acquired abroad. But as he procured them other Tutors for instruction, so he himselfe was a Tutor to them by example, beeing carefull that none of his should behold any thing in him, which might be euill for them to imitate. He also drew vp a booke of such notes and pas<g ref="char:EOLhyphen"/>sages in the Bible, as he had found and prooued to be comfortable and profitable vnto himselfe, and dedicated it vnto them. Thus he prouided well for them all in this world, but his greatest care was to acquire for them, <hi>An inheritance, in<g ref="char:EOLhyphen"/>corruptible, vndefiled, that fadeth not away,</hi>
+               <note place="margin">1. <hi>Pet.</hi> 1.3.</note>
+               <hi>re<g ref="char:EOLhyphen"/>serued for vs in heauen.</hi>
+            </p>
+            <p>In his Iustice and Integritie, I take no<g ref="char:EOLhyphen"/>tice of two things especially; first, his Incor<g ref="char:EOLhyphen"/>ruption. I doubt not but if hee now asked of vs all with <hi>Samuel,</hi>
+               <note place="margin">1. <hi>Sam.</hi> 12.3.</note>
+               <hi>VVhose Oxe haue I ta<g ref="char:EOLhyphen"/>ken?</hi> you would be all ready to returne the peo<g ref="char:EOLhyphen"/>ples answer, <hi>Thou hast not defrauded nor oppressed vs, neither hast thou taken ought at any mans hand.</hi> Who hath euer seene or heard, that either he, or any for him, did let in Iniustice in a basket at his doore, as <hi>Paul</hi> was sometimes let out at a
+<pb n="44" facs="tcp:2312:27"/> window? I haue good reason to beleeue, that in this point especially hee could say with the Prophet, <hi>I haue washed mine hands in innocencie.</hi> Secondly, in his Iustice, I obserue his care, rea<g ref="char:EOLhyphen"/>dinesse, and boldnesse to maintaine right, and to resist wrong. Herein he was resolute with <hi>Iob,</hi> and couragious with <hi>Iethro,</hi>
+               <note place="margin">
+                  <hi>Iob</hi> 1.29.</note> for <hi>Hee brake the iawes of the wicked, and plucked the spoyle out of his teeth.</hi> And like that royall and resolute Shep<g ref="char:EOLhyphen"/>heard <hi>Dauid, VVhen a Lyon or a Beare tooke a Lambe out of the flocke, he smote them, and deliue<g ref="char:EOLhyphen"/>red the Lambe out of their iawes:</hi> so that there is no ioy left for his Death, but to Lyons and Beares, the deuourers and grinders of the Inno<g ref="char:EOLhyphen"/>cent. I know that in his Office of Vice-warden<g ref="char:EOLhyphen"/>shippe, he often desired to haue some Diuine a spectator and arbitrator of his proceedings, ta<g ref="char:EOLhyphen"/>king my selfe sometime in stead of others, to bee present at the scanning and censuring of cases, desiring to decide all matters by the best rule of religion and conscience. And herein also hee symbolized with <hi>Iob,</hi>
+               <note place="margin">
+                  <hi>Iob</hi> 29.26.</note>
+               <hi>The cause that he knew not, he searched out.</hi>
+            </p>
+            <p>I come now to Charity, the last that I pro<g ref="char:EOLhyphen"/>posed, but not the least part of Christianitie. Hereof it is well knowne, that he worthily per<g ref="char:EOLhyphen"/>formed both parts; that of Giuing, and the o<g ref="char:EOLhyphen"/>ther of Forgiuing. For the former, that which is said of the righteous man, may truely bee en<g ref="char:EOLhyphen"/>grauen on his Tombe,<note place="margin">
+                  <hi>Psal.</hi> 112. 2. <hi>Cor.</hi> 9.9.</note>
+               <hi>Hee dispersed, he gaue to the poore, his righteousnesse remaineth for euer.</hi> He
+<pb n="45" facs="tcp:2312:27"/> was none of those rich men,<note place="margin">
+                  <hi>Communia possi<g ref="char:EOLhyphen"/>dentes propria faciunt occupan<g ref="char:EOLhyphen"/>do.</hi> Basil. in di<g ref="char:EOLhyphen"/>uit. auar. ser. 1. Tom. 1.</note> of whom the Fa<g ref="char:EOLhyphen"/>ther speaketh, <hi>Who possessing things common, doe inclose them as their owne:</hi> rather, what was pro<g ref="char:EOLhyphen"/>per to himselfe by owning, hee made common to others by imparting. Againe, with <hi>Iob, Hee with-held not the poore from their desire, he caused not the eyes of the widdow to faile. Hee did not eate his morsells alone, but the fatherlesse did eate with him. He saw not any to perish for want of cloathing, hee suffered not the poore to bee without couering.</hi> How many loines haue blessed him, who were yearely cloathed with the fleeces of his sheep? He remembred <hi>Pauls</hi> charge to the rich in this world,<note place="margin">1. <hi>Tim.</hi> 6.</note> and therefore endeauoured to be rich in good workes: and whereas he might by parsi<g ref="char:EOLhyphen"/>mony, or by this ages Alchymistry (which he euer abhorred) Vsury, haue heaped vp as much wealth as any in the West, hauing as great meanes, and a longer time to encrease then the most, he rather resolued to <hi>lay vp for himselfe a good foundation against the time to come,</hi> and by an heauenly Alchymy,<note place="margin">Caecorum bacu<g ref="char:EOLhyphen"/>lus, esurientium cibus, spes mise<g ref="char:EOLhyphen"/>rorum, solamen lugentium. <hi>Hie<g ref="char:EOLhyphen"/>ron. ad Helia<g ref="char:EOLhyphen"/>dor. Epitaph. Nepotian.</hi> Fores eius pau<g ref="char:EOLhyphen"/>perum ac debili<g ref="char:EOLhyphen"/>um obfidebant examina. <hi>Hie<g ref="char:EOLhyphen"/>ron ad Salv.</hi> Matth. <hi>19.24.</hi>
+               </note> to turne temporall ri<g ref="char:EOLhyphen"/>ches into eternall. This he did by beeing (as S. <hi>Hierome</hi> saith <hi>Nepotian</hi> was) <hi>The Staffe of the blind, the food of the hungrie, the hope of the mise<g ref="char:EOLhyphen"/>rable, and the comfort of mourners: His house was an Hiue, about which daily swarmed the poore and the feeble,</hi> as the same Father saith of <hi>Nebridius.</hi> He had read in the Gospel, that it <hi>was as hard for a rich man to enter into the Kingdome of hea<g ref="char:EOLhyphen"/>uen, as for a Camel to creep through the eye of a nee<g ref="char:EOLhyphen"/>dle:</hi>
+               <pb n="46" facs="tcp:2312:28"/> Yet he had learned also how to make the Camell passe through the needles eye,<note place="margin">Didicimus quo<g ref="char:EOLhyphen"/>modo cam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus introire posset per so amena<g ref="char:EOLhyphen"/>cus, quomodo a<g ref="char:EOLhyphen"/>nimal tortuosum deposito pondere sarcinarum assu<g ref="char:EOLhyphen"/>mat sibi pennas columbae, &amp;c. <hi>Hieron. ibid. Isa. 60.6.</hi>
+               </note> namely, by casting off the bunch on the back, the super<g ref="char:EOLhyphen"/>fluous load of riches, and by doing as the Ca<g ref="char:EOLhyphen"/>mels and Dromedaries did in the Prophet, <hi>bring their gold and incense vnto the Lord.</hi> Hee knewe that riches would take themselues vnto their wings, and flie into the ayre; to preuent that, he made or gaue them better wings, the wings of a Doue, that they might flie higher, namely into heauen. He renued, at least retai<g ref="char:EOLhyphen"/>ned that fugitiue Vertue, Hospitality, which is almost fled out of the Countrey: A constant and famous House-keeper, for at least forty yeares continuance. He was none of those Lay-Non-residents, who build faire houses, and immedi<g ref="char:EOLhyphen"/>ately flie from them into some cabbine in a towne or citie, as if they feared their houses would fall downe vpon their heads, if they should abide and feast in them as <hi>Iobs</hi> children did. He was none of those, who make their sta<g ref="char:EOLhyphen"/>ble their Table, their backes their buttery, their mouth the kitchin, and their nostrills the chim<g ref="char:EOLhyphen"/>ney. But his house for many yeares was the center of charity and hospitality, wherein met the lines of poore and strangers, drawne from a large circumference round about him. How many an Angell hath this righteous <hi>Lot</hi> enter<g ref="char:EOLhyphen"/>tained in his house? How often hath this bles<g ref="char:EOLhyphen"/>sed <hi>Abraham</hi> feasted in his Tent the blessed Trinity? And least at any time he should ex<g ref="char:EOLhyphen"/>clude
+<pb n="47" facs="tcp:2312:28"/> the worthie, how many times (vn<g ref="char:EOLhyphen"/>awares) hath hee admitted the vnworthie? O blessed <hi>Nehemias,</hi> of our Age and Coasts! I doubt not but that the Lord hath remembred thee also in this.</p>
+            <p>The second part of Charitie consisting in Forgiuing, was not omitted by him:<note place="margin">
+                  <hi>Col.</hi> 3.12.</note> an espe<g ref="char:EOLhyphen"/>ciall fruit of Election, as witnesseth the Apostle. Wrongs hee receiued, for who is hee in this world that shall not? and that from Equals, Inferiours, at home, abroad: at first, he would be somewhat tender, but Conscience and Con<g ref="char:EOLhyphen"/>sideration soone qualified his Choler. Hee ne<g ref="char:EOLhyphen"/>uer sought reuenge against the Higher, nor wrought reuenge against the Lower, but par<g ref="char:EOLhyphen"/>doning where he had Power, hee shewed that he had no Will, where he had no power. Last<g ref="char:EOLhyphen"/>ly, He met at Table a Gentleman of the better ranke of this Shire, betweene whom and him there depended some Law-contentions. Hee dranke to him, and told him, that they were both old, and wished that Charitie might bee continued; as for the Law, he might doe as he pleased. Who can doubt of the truth of Christs Promises? Hee is surely forgiuen who was so readie to forgiue.</p>
+            <p>Vnto the two former I cannot but annexe a a third act of Charitie, wherein hee excelled; The studie and industrie of making peace and reconciling differences: wherein, as God gaue him the grace to affect it, so he endued him with
+<pb n="48" facs="tcp:2312:29"/> a rare gift to effect it.<note place="margin">Vid. Horat. ep. <hi>2.</hi> l. <hi>1.</hi> &amp; Satyr. <hi>5.</hi> lib. <hi>1.</hi>
+               </note> He was a <hi>Nestor,</hi> a <hi>Mece<g ref="char:EOLhyphen"/>nas</hi> in this behalfe. I haue knowne him to buy o<g ref="char:EOLhyphen"/>ther mens peace with his own purse, when they through obstinacie would not purchase that iewell to themselues. Blessed Man! thou wert a Peace-maker among Men, no doubt thou now enioyest that Peace of God, which pas<g ref="char:EOLhyphen"/>seth all vnderstanding. How can it bee false which the great Peace-maker hath said? <hi>Bles<g ref="char:EOLhyphen"/>sed are the Peace-makers, for they shall bee called the Sonnes of God.</hi>
+            </p>
+            <p>Vnto these his Vertues, I adde as a Corol<g ref="char:EOLhyphen"/>larie, the Crowne of Vertues, that is, his Con<g ref="char:EOLhyphen"/>tinuance and Perseuerance in these and all the rest of his Vertues. Hee was truely a Tree of God,<note place="margin">
+                  <hi>Psal.</hi> 1.</note> planted by the Riuers side, euen the Ri<g ref="char:EOLhyphen"/>uers of the Water of Life,<note place="margin">
+                  <hi>Reuel.</hi> 21. <hi>Psal.</hi> 92.14.</note> his Leafe did not fade, but he brought forth more Fruit in his old age: then most good, when he drew nee<g ref="char:EOLhyphen"/>rest to his chiefest Good: and beginning to bee good betimes, he continued; yea, he encrea<g ref="char:EOLhyphen"/>sed, and was best at last. He well deserued with <hi>Mnason</hi> the Title of <hi>An old Disciple:</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 21.16.</note> Few I thinke, of his degree, can prescribe beyond him in Christianitie.<note place="margin">1. <hi>Sam.</hi> 2.19.</note> With <hi>Samuel,</hi> he came to serue the Lord, almost in his long coats, and with <hi>Simeon,</hi>
+               <note place="margin">
+                  <hi>Luke.</hi> 2.25.</note> continued iust and deuout vntill his very last dissolution. And this is an euident signe of sauing Grace, when one beginnes be<g ref="char:EOLhyphen"/>times, and continues still in a religious course. The heauenly King cannot but honour his old
+<pb n="49" facs="tcp:2312:29"/> Pensioners. In whose Seruice this Christian Knight continued to the end, wee may there<g ref="char:EOLhyphen"/>fore safely pronounce him saued.</p>
+            <p>This his Godlinesse, wanted not recompence euen in this Life: for Pietie (you know) hath the promises of both Liues. First, God bles<g ref="char:EOLhyphen"/>sed him in his Person with many dayes, the Crowne of yeeres, hee is carried to his Graue like a Ricke of Corne, not mowed downe before his time. He enioyed the blessing promised to the man that feareth God, and walketh in his wayes, for he saw his Childrens Children,<note place="margin">
+                  <hi>Psal.</hi> 138.1.6.</note> and Peace vpon Israel. He was a Grand-father by all his Children, who liued to marriage, and a great Grand-father by his eldest. Hee was blessed in his Wedlocke, hauing three such Wiues successiuely, as any one of them might suffice to make an Husband happie; which bles<g ref="char:EOLhyphen"/>sing, I heard him lately acknowledge with great thankfulnesse. He was blessed in his Children, for hauing many, he had none whom he might be ashamed to owne; yea, he might haue beene an happie Father in any one of them, though he had no more.</p>
+            <p>He was blessed in his Honours and dignities, hauing held with reputation the greatest in his Shire, being twice Sheriffe in two yeeres,<note place="margin">Inter honorum cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mina sic vixit vt se ad Chri<g ref="char:EOLhyphen"/>stum crederet prosecturum. <hi>Hieron. ad Saluin.</hi>
+               </note> so remarkable for strange euents, that they haue not beene paralelled in our Age: yet in all his Dignities most happie in this, that hee so held them, as holding it his best Dignitie to bee a
+<pb n="50" facs="tcp:2312:30"/> Christian, and his highest preferment to goe to Christ.</p>
+            <p>Lastly, he was happie in that which makes a man for euer most happie, or most miserable, namely, in his death, a short sicknesse making way to a quiet and peaceable dissolution. When I first came to visit him, his haste was that ha<g ref="char:EOLhyphen"/>uing setled his estate for the World, hee might the more freely dispose his Soule for God. Ex<g ref="char:EOLhyphen"/>horting him once to haue a strong Faith and a good Heart, I cannot forget his answere, That it had beene alwaies a part of his daily prayer, that God would giue him a faithfull Heart, an humble Heart, a charitable Heart, and a thank<g ref="char:EOLhyphen"/>full Heart. Briefely, in his departure hee some<g ref="char:EOLhyphen"/>what symbolized with <hi>Elias,</hi> for the Mantle of his mortalitie, not violently pulled, but quietly falling as a Cloake from him, his Soule did sud<g ref="char:EOLhyphen"/>denly flie vp on Angels wings into Heauen; where, with <hi>Elias,</hi> and all other blessed Saints of God, it abideth in ioy eternall.</p>
+            <p>Thus hast thou left vs, noble Sir <hi>Anthonie,</hi> too soone for vs, in the best time for thy selfe, and which is worst,<note place="margin">Master <hi>Am<g ref="char:EOLhyphen"/>brose Rous,</hi> his eldest Sonne.</note> thou sentest him before thee in whom we hoped to haue enioyed thee: and our <hi>Elisha</hi> was taken from vs before our <hi>Elias,</hi> who should haue comforted vs for the losse of our <hi>Elias,</hi> by continuing his Vertues. But hee was taken away before thee, and therefore hath left vs the more sorrow for thee. Yet should we not so much grieue that thou art gone, as re<g ref="char:EOLhyphen"/>ioyce
+<pb n="51" facs="tcp:2312:30"/> that we enioyed thee so long. Thou hast fulfilled thy dayes, and numbred thine Olym<g ref="char:EOLhyphen"/>piads; many Worthies haue come short of thee by as many Yeares as Vertues: True; but wee haue lost a Father, a Father of the Countrie, of Religion, of Pietie, a Father of Iustice and E<g ref="char:EOLhyphen"/>quitie, and who can denie men leaue to lament the losse of such a Father, at last, though they enioyed him neuer so long? Haddest thou liued as many Centuries as thou diddest Scores of yeares, Posteritie would neuer haue surfetted on thee, but at the latest date would haue beene loth to haue left thee, and would complaine at last that they were too soone bereft of thee.<note place="margin">Quis tamen in Patrem quem summa senecta resoluit impe<g ref="char:EOLhyphen"/>rendi lachrymas iure ne<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e po<g ref="char:EOLhyphen"/>test? Ʋixerit in<g ref="char:EOLhyphen"/>numeros aequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Nestoris annos impertent vitae tempora longa suae immaturus obit: Pietatis iura parentum, Non vitae la<g ref="char:EOLhyphen"/>chrymus non po<g ref="char:EOLhyphen"/>suere modum. <hi>Scalig. in Epi<g ref="char:EOLhyphen"/>ced. Theodor. Bezae.</hi>
+               </note> A Fathers death euer comes too soone, liue he ne<g ref="char:EOLhyphen"/>uer so long. Who can prescribe limits to the life of Parents, or stint teares for their death, when it commeth, though it were neuer so long be<g ref="char:EOLhyphen"/>fore it came?</p>
+            <p>But seeing thou hast left vs, wee must now leaue thee, till we doe follow thee. I therefore now turne my speech from the Dead to the Li<g ref="char:EOLhyphen"/>uing, who are here taught that they also must turne from the Liuing to the Dead. My desire is that all here present, and some aboue all, and my selfe first of all may draw some profitable vse out of all that which hath beene deliuered.</p>
+            <p>First, my selfe must hence learne, and so may all you with me, to repose our trust in God, for vaine is the helpe of Man. Trust not in Princes, their breath is in their Nostrils, they returne to
+<pb n="52" facs="tcp:2312:31"/> their Earth, and then all their thoughts doe pe<g ref="char:EOLhyphen"/>rish. But if we make the Almightie our defence, when Father and Mother faileth vs, he will su<g ref="char:EOLhyphen"/>staine and support vs. Hee taketh our Friends, our Fathers, Patrons, Benefactors into Heauen, that wee may learne to send our hopes and affe<g ref="char:EOLhyphen"/>ctions thither, and to lift vp our eyes to these Mountaines from whence commeth our helpe; for our helpe is in the Name of the Lord, who hath made both Heauen and Earth.</p>
+            <p>To the Heire of our <hi>Elias,</hi> to the <hi>Elisha</hi> that must succeed him, I wish that (if it bee possible) he may also exceed him; that the Spirit both of his Grand-father and Father, may bee doubled on him, that hee may inherit their Vertues as well as their Possessions, and so farre surpasse them as they did others: That the Mantle of <hi>E<g ref="char:EOLhyphen"/>lias</hi> may remaine with him, and that the Sonnes of the Prophets, when they see him, may say of him, The Spirit of <hi>Elijah</hi> doth rest on <hi>Elisha;</hi> That he may doe worthily in Ephrata, and bee famous in Bethlem.<note place="margin">
+                  <hi>Ruth.</hi> 4.11.</note>
+            </p>
+            <p>To the rest of the Branches of this noble Stocke, I wish, that as they haue fairely begun, so they will proceed, to shew themselues wor<g ref="char:EOLhyphen"/>thy Sonnes of such a worthy Father, that wee may still blesse God for him, and his memorie for them. No better Patrimonie could he leaue them, then the president of his pietie.</p>
+            <p>Gentlemen, and You, who come hither to performe the last Office, and exhibite the last
+<pb n="53" facs="tcp:2312:31"/> act of loue to the Deceased, learne of him to bee Fathers of your Countrie, Patrons of the Church, louers of the Word, embracers of the Ministers of the Word, preseruers of Peace, the Eyes of the Blinde, the Staffe of the Lame, Zealous for Gods glorie, worthie Patriots; that when you shall leaue this Vale of Miserie, you may be dismissed with this honourable ac<g ref="char:EOLhyphen"/>clamation, <hi>The Chariots of Israel and the Horse<g ref="char:EOLhyphen"/>men thereof.</hi>
+            </p>
+            <p>Generally all here present, humble your Soules before the Almightie; know wee, that for our sinnes and vnworthinesse, the Horsemen of Israel and the Chariots thereof are taken from vs; and their taking away, importeth great euill to ensue, if wee preuent it not by speedie repentance. Behold, in one Weeke, two such Wounds inflicted on vs,<note place="margin">M. <hi>Richard Ca<g ref="char:EOLhyphen"/>rew</hi> of <hi>Anthony,</hi> and Sir <hi>Anthony Rous,</hi> died both in one Weeke.</note> in the Death of two Worthies, that our Countie neuer felt the like Blowe so suddenly, in the eldest mans memorie among vs: and I suppose, that the eyes of the youngest will scarce see it closed vp, by the recouerie of the like Two againe. In foure or fiue dayes, two Wheeles of our Chariot were broken, two Horsemen of Israel were taken from vs into Heauen. If wee see not in our selues the cause of this Calamitie, wee are too blinde: If seeing it, wee seeke not to the Remedie, wee are too brutish: The Re<g ref="char:EOLhyphen"/>medie is, mature Repentance. This will stay Gods hand, that hee proceed not further, in
+<pb n="54" facs="tcp:2312:32"/> taking more Fathers from vs: Yea, this may turne Gods Anger into Mercie, and cause him to rayse vp more Fathers, more Chariots and Horsemen for vs.</p>
+            <p>Which God the Father graunt vnto vs, for his Sonne Iesus sake: To whom, with the Holy Ghost, three Persons blessed for euer, bee ascribed (as is due) all Prayse, Power, Might, Maiestie, Dominion, and Glory, now and for euer. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:2312:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
